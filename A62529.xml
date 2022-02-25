@@ -1,0 +1,1260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crums of bread for the dove in the clefts of the rock, and the secret places of the stairs, Cant. 2.14, or, Helps to meditation on conversion, mortification, sanctification, the Christians daily walke, reading the scriptures, and good practicall books : for a friend / by J.T.</title>
+            <author>Tickell, John, d. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62529</idno>
+            <idno type="STC">Wing T1156</idno>
+            <idno type="STC">ESTC R6990</idno>
+            <idno type="EEBO-CITATION">12527986</idno>
+            <idno type="OCLC">ocm 12527986</idno>
+            <idno type="VID">62699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 949:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Crums of bread for the dove in the clefts of the rock, and the secret places of the stairs, Cant. 2.14, or, Helps to meditation on conversion, mortification, sanctification, the Christians daily walke, reading the scriptures, and good practicall books : for a friend / by J.T.</title>
+                  <author>Tickell, John, d. 1694.</author>
+               </titleStmt>
+               <extent>[4], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1652?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Biblical teaching.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62699:1"/>
+            <pb facs="tcp:62699:1" rendition="simple:additions"/>
+            <p>Crums <hi>of</hi> Bread FOR <hi>The</hi> DOVE <hi>in the Clefts of the Rock, and the ſecret places of the Stairs,</hi> Cant. 2.14.</p>
+            <p>Or HELPS to MEDITATION, On Converſion, Mortification, Sancti<g ref="char:EOLhyphen"/>fication, <hi>the</hi> Chriſtians daily walke, Communion with God, <hi>&amp;c. With Directions for profitable Reading the Scriptures, and good practicall Books;</hi>
+            </p>
+            <p>For a Friend, By <hi>J. T.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62699:2"/>
+            <pb facs="tcp:62699:2"/>
+            <opener>
+               <salute>My Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your de<g ref="char:EOLhyphen"/>ſerts and deſires, I here preſent to you ſome broken <hi>Thoughts, di<g ref="char:EOLhyphen"/>rections, remembrances, references,</hi> for the better improve<g ref="char:EOLhyphen"/>ment of your <hi>Solitudes</hi> and <hi>retire<g ref="char:EOLhyphen"/>ments</hi> for <hi>Meditation</hi> and <hi>Reading.</hi> I have ranked them under ſeverall <hi>heads,</hi> given you but briefe <hi>hints,</hi> leaving the enlargements to your own thoughts; what more might be required, you may ſupply from the <hi>Scriptures,</hi> your <hi>Sermon-Notes,</hi> and thoſe <hi>good books,</hi> to which I have re<g ref="char:EOLhyphen"/>ferred you: Each SECTION (after that you have peruſed the whole) af<g ref="char:EOLhyphen"/>fords you matter enough for one <hi>So<g ref="char:EOLhyphen"/>litary</hi> ſeaſon at the leaſt; and when
+<pb facs="tcp:62699:3"/>you have done with this, you may have more, as God gives opportunity. I begin with the ſubject of <hi>Conver<g ref="char:EOLhyphen"/>ſion, Regeneration, and the firſt work,</hi> if it ſuit not your concition, you may commend it to ſuch as you love and know may need it. I leave it with you as a token of my reſpects for you and your Spirituall concernments. God give his bleſſing to it, and if it any way help you in your <hi>Meditation</hi> and <hi>Rea<g ref="char:EOLhyphen"/>ding,</hi> I ſhall deſire no more then your remembrances of me at the throne of Grace.</p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="section">
+            <pb facs="tcp:62699:3"/>
+            <head>SECT. I. <hi>Of Converſion, Regeneration,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is to be preſuppoſed in order to the improvement of the following Sections, that as you have been un<g ref="char:EOLhyphen"/>der the meanes of Grace, ſo, you are indeed in a ſtate of Grace; if you are not, Con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p n="1">1. That <hi>Converſion, Regeneration,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſ. </seg>
+                  </label> a ſtate of Grace and intereſt in Christ by faith are of abſolute neceſſity unto ſalvation.</hi>
+            </p>
+            <p>The <hi>Scriptures</hi> do abundantly prove it,
+<label type="milestone">
+                  <seg type="milestoneunit">Proof. </seg>
+               </label> turne to read, and take theſe few for a triall, <hi>John</hi> 3.3 <hi>&amp;c. Heb.</hi> 12.14. <hi>Mat.</hi> 18.3. <hi>Joh.</hi> 3.16. <hi>&amp;c.</hi>
+            </p>
+            <p>All good <hi>Reaſon</hi> is for it. 1.
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>
+               </label> Without an intereſt in Chriſt thou haſt no title to ſal<g ref="char:EOLhyphen"/>vation. 2. Without regeneration thou haſt no fitneſſe for it; And 3ly,
+<note place="margin">
+                  <hi>Eph.</hi> 2.12. <hi>Heb.</hi> 12.14 <hi>Pro.</hi> 3.3. <hi>Hab.</hi> 1.13.</note> Without ſuch termes God is reſolved that he will not. 4. His nature is ſuch in Wiſedome, Holi<g ref="char:EOLhyphen"/>neſſe
+<pb n="2" facs="tcp:62699:4"/>and righteouſneſſe,
+<label type="milestone">
+                  <seg type="milestoneunit">Appl. </seg>
+               </label> that he cannot give it: reſolve then for it, and ſet about it ſpeedily, ſeriouſly, and to the purpoſe, ſue and ſeek to God for the grace, and ap<g ref="char:EOLhyphen"/>ply thy ſelfe to the uſe of the meanes, with hungrings, and thirſtings after righteouſ<g ref="char:EOLhyphen"/>neſſe, with humility, faith, prayer, and di<g ref="char:EOLhyphen"/>ligence;
+<note place="margin">
+                  <hi>Prov.</hi> 1.7.</note> In order to it take theſe <hi>Dire<g ref="char:EOLhyphen"/>ctions.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Direct. </seg>
+               </label> 
+            </p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Math.</hi> 16.26. <hi>Heb.</hi> 1.13. <hi>Rom.</hi> 10. <hi>Rom.</hi> 7. <hi>Joh.</hi> 5.28.29. <hi>Rom</hi> 3.23 <hi>Gal.</hi> 3.10. <hi>Eph.</hi> 2.1, 2.3. <hi>Eph.</hi> 2.12. <hi>Pro.</hi> 15. 2 <hi>Cor.</hi> 5.18. 1 <hi>Tim.</hi> 1.15. <hi>Rom.</hi> 3.25. <hi>Heb.</hi> 10.15, 16, 17. <hi>John</hi> 3.16. <hi>Mark</hi> 1.15.</note> Conſider, Thou haſt a precious and an immortall ſoule, there is a God that is Ho<g ref="char:EOLhyphen"/>ly, Juſt, and Good, he hath given thee his Law, and Goſpell; Heaven, and Hell, in endleſſe eternity are before thee, death and judgment haſten a pace, a world of ſin both of nature and of life may be char<g ref="char:EOLhyphen"/>ged upon thee, the law is againſt thee, the curſe and wrath of God is over thee, thou haſt no hope nor helpe in thy ſelfe, nor in all the creatures, and without a Chriſt and Grace, and a changed ſtate thou wilt be undone for ever. For thy encouragement to thy duty, underſtand and believe, That God is in a way of grace and mercy; Chriſt Jeſus came into the World to ſeek and ſave ſinners; as a ſurety and ſacrifice he hath died, ſatisfied Gods law and Juſtice; eſtabliſhed a Covenant of Grace and ſal<g ref="char:EOLhyphen"/>vation on termes of faith, repentance,
+<pb n="3" facs="tcp:62699:4"/>and new obedience;
+<note place="margin">
+                  <hi>Heb.</hi> 5.9. <hi>Prov.</hi> 12.</note> makes the ten<g ref="char:EOLhyphen"/>ders of grace, and reconciliation in the mi<g ref="char:EOLhyphen"/>niſtry of the Goſpell to thee; hath along time been calling upon thee;
+<note place="margin">2 <hi>Cor.</hi> 5.18, 19, 20, 21. <hi>Prov.</hi> 1.23.</note> is ſtill wai<g ref="char:EOLhyphen"/>ting, woing, and beſeeching thee to accept of him and grace: his ſpirit is ready to help thee; there is nothing wanting, but thy free and full conſent,
+<note place="margin">
+                  <hi>Heb.</hi> 3.8.12.15.</note> ô continue not (as too long thou haſt done already) in a ſtate of ſinne and enmity, unbeliefe and unrege<g ref="char:EOLhyphen"/>neracy, to the diſappointments of Grace,
+<note place="margin">2 <hi>Cor.</hi> 6.1.</note> the abuſe of the Goſpell,
+<note place="margin">
+                  <hi>Heb.</hi> 2.3. <hi>Heb.</hi> 10.29. <hi>Mark.</hi> 16.16. 2 <hi>Theſ.</hi> 1.8.</note> the griefe of the ſpirit, the reproach of the blood of Chriſt, and the remedileſſe deſtruction and damna<g ref="char:EOLhyphen"/>tion of thine own ſoule: Repent and be<g ref="char:EOLhyphen"/>lieve the Goſpell, receive Chriſt and Grace, apply thy ſelfe unto thy duty in faith, re<g ref="char:EOLhyphen"/>pentance, and new obedience, and thou ſhalt not miſcarry:
+<note place="margin">
+                  <hi>Pro.</hi> 3.16. <hi>Rom.</hi> 8.1, 2, 3.</note> thy ſinnes ſhall be par<g ref="char:EOLhyphen"/>doned, thy perſon ſhall be juſtified, thy nature ſhall be changed, thy ſoule ſhall be ſaved, <hi>John</hi> 3.36.</p>
+            <p n="2">2. Underſtand what is required of thee,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> and expected from thee, in the termes of the Goſpell, faith, repentance, and new obe<g ref="char:EOLhyphen"/>dience: in ſhort 'tis thus:
+<note place="margin">
+                  <hi>John</hi> 17.3. <hi>Pro.</hi> 3.33. <hi>Rom.</hi> 10.10, 11. <hi>Rom.</hi> 1.5.</note>
+            </p>
+            <p n="1">1. By faith thou art 1. To apprehend. 2. To aſſent unto. 3. To apply unto thy ſelfe, and 4. To improve the diſco<g ref="char:EOLhyphen"/>veries
+<pb n="4" facs="tcp:62699:5"/>made unto thee, 1. Of ſinne and wrath in the Law of God. 2. Of Grace and mercy through Chriſt in the Goſpell of Salvation.</p>
+            <p n="2">2.
+<note place="margin">
+                  <hi>Lam.</hi> 3.40.</note> By Repentance thou art, 1. To ſearch and find out the ſinfulneſſe (in ſome good meaſure) of thy nature, and of thy life;
+<note place="margin">
+                  <hi>Rom.</hi> 7.13.</note> 2. Through the conſideration of the ſinfulneſſe of ſinne, which is the greateſt evill in it ſelfe, as againſt God and the grea<g ref="char:EOLhyphen"/>teſt good;
+<note place="margin">
+                  <hi>Eph.</hi> 2.2, 3.</note> the conſideration of thy ſad condition, becauſe of ſin according to the Law of God, the greateſt judgment in this life and that to come;
+<note place="margin">
+                  <hi>Ezek</hi> 16.60, 61. <hi>Jer.</hi> 3.</note> and the conſi<g ref="char:EOLhyphen"/>deration of the abundant grace and mer<g ref="char:EOLhyphen"/>cy ſet before thee in the good will of God to thy ſalvation. 1. The death of Chriſt, the bleſſings and promiſes of life and of ſalvation tendered to thee,
+<note place="margin">
+                  <hi>Pſ.</hi> 51.</note> to Humble thy ſoule with griefe of heart and broken<g ref="char:EOLhyphen"/>neſſe of ſpirit.
+<note place="margin">
+                  <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt.</hi> 9:</note> 3. To caſt thy ſelfe at Gods feet before the throne of grace, in free and full confeſſion, in earneſt prayer and ſup<g ref="char:EOLhyphen"/>plication for grace and mercy through Jeſus Chriſt.</p>
+            <p n="4">4.
+<note place="margin">
+                  <hi>Rom.</hi> 7. <hi>Ezck</hi> 33.11. <hi>Iſ.</hi> 1.16. <hi>Ezek.</hi> 18.31.</note> To ſet thine heart againſt all manner of ſin whatſoever, to hate it and abhorre it, in the ſtrength of God to reſolve the utter deſtruction of it in thy nature, the
+<pb n="5" facs="tcp:62699:5"/>avoidance of it in thy life and Converſati<g ref="char:EOLhyphen"/>on,
+<note place="margin">
+                  <hi>Rom.</hi> 7.</note> together with all the temptations and occaſions that lead thee to ſin from with<g ref="char:EOLhyphen"/>out, and all the corrupt motions, diſpoſi<g ref="char:EOLhyphen"/>tions, workings of it that are within, ac<g ref="char:EOLhyphen"/>cording to the prohibitions in the word, the convictions of the ſpirit, and the checks of thy conſcience, and this both in thought, word, and deed. 5. Thou muſt be ſure to give proofe of all in the courſe of thy life and converſation, <hi>Matth.</hi> 3.8.
+<note place="margin">
+                  <hi>Mat.</hi> 3.8.</note> and if through weakneſſe and infirmity, thou beeſt at any time overtaken, to reflect upon thy ſelfe,
+<note place="margin">
+                  <hi>Pſ.</hi> 51.</note> and renew theſe actings of repentance with particular application to that tranſgreſſion, And 7. Every day, whether ſin be known or not known to be ſearching, humbling, confeſſing, praying, reſolving, labouring to root out and de<g ref="char:EOLhyphen"/>ſtroy the remainders of thy Corrup<g ref="char:EOLhyphen"/>tion.
+<note place="margin">
+                  <hi>Pſ.</hi> 19.12.</note>
+            </p>
+            <p n="3">3. New obedience calls thee 1. To Con<g ref="char:EOLhyphen"/>ſider the obligation that lies upon thee by nature and grace to know and to doe the will of God. 2.
+<note place="margin">
+                  <hi>Rem.</hi> 12.1. <hi>Rom.</hi> 14.9.</note> To acquaint thy ſelfe with the mind and will of God revealed in his word as the rule of thy dury. 3.
+<note place="margin">
+                  <hi>Pſ.</hi> 1. <hi>Pſal.</hi> 119. <hi>Acts</hi> 9.6. <hi>Deut.</hi> 39: <hi>Iſ.</hi> 56.8.</note> To give up thy ſelfe in the ſence of thy duty and Gods mercy through Chriſt in a Co<g ref="char:EOLhyphen"/>venant
+<pb n="6" facs="tcp:62699:6"/>of ſincere, free, full, univerſall, and conſtant obedience: 4. Making Chriſt thy ſtrength, and the Word thy rule, Gods Glory and thine own ſalvation thine end, and the ſpirit thy guide, and a good con<g ref="char:EOLhyphen"/>ſcience thy principle, to apply thy ſelfe to the exerciſe of every grace,
+<note place="margin">
+                  <hi>Pſal.</hi> 50.4. <hi>Rom.</hi> 6.12.</note> and the performance of every duty, which God requireth of thee, towards himſelfe, thine own ſoule, and others in thy place, conditi<g ref="char:EOLhyphen"/>on,
+<note place="margin">
+                  <hi>Phil.</hi> 3.8. 1 <hi>Pet.</hi> 2.5.</note> and capacity. 5. Making up thy de<g ref="char:EOLhyphen"/>fects (when ſenſible of them) by preſenting thy perſon and thy duty to Gods Gracious acceptance, according to the Covenant of of Grace, through the mediation of Jeſus Chriſt:</p>
+            <p>In ſo doing,
+<label type="milestone">
+                  <seg type="milestoneunit">Com. </seg>
+               </label> for thy Comfort under<g ref="char:EOLhyphen"/>ſtand, that God will accept, and Chriſt will help, grace ſhall be thy ſtate, God, Chriſt promiſes, pardon, peace, priviledg ſhall be thy portion whileſt thou art here; death, judgment, hell, curſe, wrath, and reall evils ſhall not come nigh to hurt thee; Heaven, bleſſedneſſe, and glory, eternall life and joy ſhall be thine inheritance, and poſſeſ<g ref="char:EOLhyphen"/>ſion, to all eternity.</p>
+            <p>And if thou wouldeſt not miſcarry in this great work,
+<note place="margin">Caut. <hi>Luk.</hi> 19.42 <hi>Mat.</hi> 11.6.</note> take heed (1) of delaies, de<g ref="char:EOLhyphen"/>murres, put offs, 2. of taking offence, at
+<pb n="7" facs="tcp:62699:6"/>the ſtrictneſſe of duty, at the low condi<g ref="char:EOLhyphen"/>tion of Chriſt and Chriſtians, and the ſcan<g ref="char:EOLhyphen"/>dalous lives and actions of Hypocrites and profeſſors, who ſhall beare their burden.
+<note place="margin">
+                  <hi>Acts</hi> 2.40.</note> 3. of evill company. 4. Of diſcourage<g ref="char:EOLhyphen"/>ments from carnall friends. 5.
+<note place="margin">
+                  <hi>Heb.</hi> 3.12.</note> Of an evill heart of impenitency and unbeliefe, 6. Of Temptations from Sathan, 7.
+<note place="margin">
+                  <hi>Acts</hi> 26.28.29.</note> Of being but almoſt a Chriſtian, reſting in con<g ref="char:EOLhyphen"/>victions, confeſſions, humiliations, vowes and promiſes, profeſſion, partiall change and reformation, good eſteem with others; till the work be perfectly done, and thine heart ſubdued unto God in Chriſt, in faith, repentance, and new obedience, according to the Goſpell and the directions now ſet before you. 8.
+<note place="margin">
+                  <hi>Rom.</hi> 14.1.</note> Of troubling your ſelves with needleſſe diſputes and queſtions about things of ſmall moment in Religion, or above your reach. 9. Of Spirituall pride upon the one hand, or unneceſſary calling in queſtion your condition upon the other, where this work is ſincerely done, or Gods Grace and mercy for your pardon, and ac<g ref="char:EOLhyphen"/>ceptance in Jeſus Chriſt. 10. Take heed of Apoſtacy and backſliding in whole or part, to corrupt opinions and errours upon the one hand, or to ſinfull practiſes and courſes upon the other.</p>
+            <pb n="8" facs="tcp:62699:7"/>
+            <p> When this work is done,
+<label type="milestone">
+                  <seg type="milestoneunit">Coun. </seg>
+               </label> give grace the glory,
+<note place="margin">1 <hi>Tim.</hi> 1.14 <hi>Mat.</hi> 18.3.</note> adore its freedome, and magnifie its power, believe its conſtancy, and live upon its fulneſſe till brought to glory.</p>
+            <p n="2">2. Be daily practiſing and perfecting this bleſſed work, and think not that all is done till thou getſt to Heaven.</p>
+            <p n="3">3. For further direction and thy better progreſſe be much in Holy exerciſes,
+<note place="margin">
+                  <hi>Acts</hi> 9.11.</note> pray<g ref="char:EOLhyphen"/>ing, hearing, meditating, conferring with good Chriſtians, reading the Scriptures, and Sermon notes, and good books, eſpe<g ref="char:EOLhyphen"/>cially about Converſion and Regene<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Some Sermons I have purpoſely prea<g ref="char:EOLhyphen"/>ched on this Subject in <hi>Abington</hi> on the ſe<g ref="char:EOLhyphen"/>verall inſtances of converſion in the new Teſtament: in <hi>Exeter</hi> on <hi>Joh.</hi> 3. at <hi>Petrocks</hi> on <hi>Acts</hi> 26.18. at <hi>Mary-ſteps</hi> and <hi>Edmonds</hi> on <hi>Matth.</hi> 18.3. at <hi>Mary-moores</hi> &amp;c. be<g ref="char:EOLhyphen"/>ſides collaterall applications: had I been more in this work and method, ſucceſſe would have been through grace propor<g ref="char:EOLhyphen"/>tionable.</p>
+            <p>Theſe following are choice Books, though not all that may be read upon this ſubject, get and read what you can of them. Bax<g ref="char:EOLhyphen"/>ters <hi>Call to the unconverted,</hi> Baxter <hi>Of Converſion.</hi> Baxters <hi>Directions to prevent
+<pb n="9" facs="tcp:62699:7"/>miſcarrying in converſion. His Saint or a Brute.</hi> His Sermons on <hi>Death and Judgment.</hi> His <hi>Everlaſting Reſt.</hi> Whately <hi>of Regenera<g ref="char:EOLhyphen"/>tion.</hi> Hooker's <hi>Soules preparation for Chriſt. Soule's Humiliation:</hi> with ſeverall other Treatiſes of his, contracted in Ambroſe his <hi>prima,</hi> or <hi>firſt things.</hi> Dike, of <hi>Repentance:</hi> morning Exerciſe at <hi>Giles, London.</hi> Mor<g ref="char:EOLhyphen"/>ning exerciſe at <hi>Cripplegate, the Sermons in them on this Subject.</hi> Ob: Sedgwick on <hi>Rev.</hi> 3.20. his treatiſe of <hi>faith,</hi> &amp;c.</p>
+         </div>
+         <div n="2" type="section">
+            <head>SECT. II. <hi>Of Mortification.</hi>
+            </head>
+            <p>HAving ſeen the Converſion of the Sin<g ref="char:EOLhyphen"/>ner, let us proceed to the worke and exerciſe of the Saint: and the firſt thing that preſents it ſelf to our conſideration, for the improvement of his converſion, is the Mortification of his corruption: and therein note,</p>
+            <p n="1">1. That there is an indwelling Body of ſin and corruption that remaineth in the con<g ref="char:EOLhyphen"/>verted and regenerated perſon. It is perfe<g ref="char:EOLhyphen"/>ctly pardoned, but not perfectly purged out, and deſtroyed, while in this body of fleſh. See <hi>Romanes</hi> 7th. <hi>per tot.</hi>
+            </p>
+            <p n="2">
+               <pb n="10" facs="tcp:62699:8"/> 2. It is the duty and property of every truly converted and regenerated perſon, to proceed in the mortification of corrup<g ref="char:EOLhyphen"/>tion, and to endeavour through grace the compleat deſtruction of that body of ſin that is about him, and every branch and member of it. See <hi>Rom.</hi> 6. <hi>&amp;</hi> 7. <hi>&amp;</hi> 8. <hi>Col.</hi> 3. <hi>Gal.</hi> 5, <hi>&amp;c.</hi> throughout.</p>
+            <p>R. 1. Remaining ſin is remaining enmi<g ref="char:EOLhyphen"/>ty to God and to the Chriſtian himſelfe,
+<note place="margin">
+                  <hi>Rom.</hi> 8.7. 1 <hi>Pet.</hi> 2.11. <hi>Gen.</hi> 17.1.</note> and muſt not be let alone. 2. Converſion and true Repentance is only ſincere and true, as it intends perfection. 3. It muſt be perfectly done by Grace upon us,
+<note place="margin">1 <hi>Cor.</hi> 15.50.</note> ere we can be fit ſubjects of the Kingdome of Heaven.
+<note place="margin">
+                  <hi>Rom.</hi> 6.6.</note> 4. The Death of Chriſt intends our perfect freedome and deliverance, by degrees, and in due time: as from the guilt of ſin, and the puniſhment of ſin, ſo from the dominion of ſin in our converſion,
+<note place="margin">
+                  <hi>Rom.</hi> 6.12. <hi>Rom.</hi> 7.25. <hi>Gul.</hi> 5.26.</note> the abiding power of ſin in our progreſſive mortification, and at laſt the preſence and being of ſin in our diſſolution: what Chriſts death intends in its Merit, Example, Argu<g ref="char:EOLhyphen"/>ment, and Influence, the ſame ſhould we intend in our purpoſe and progreſſe for communion with him, and conformity to him, in his death and crucifixion.</p>
+            <p>Take theſe Directions for it, 1. by way
+<pb n="11" facs="tcp:62699:8"/>of COnſideration: 2. by way of Operation and Practiſe.</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Pſ.</hi> 16.8: <hi>Pſ.</hi> 119.11 <hi>Gen.</hi> 39.9. <hi>Pſ.</hi> 18.21, 22. <hi>Rom.</hi> 7.13.</note> Set before thine eyes continually (eſpecially upon the motions of ſin and temptations unto ſin) the <hi>Holineſſe</hi> of God in his Name; Nature, Word, and Will; his Holy <hi>Eye,</hi> his Holy <hi>Law.</hi>
+            </p>
+            <p n="2">2. Set before thine eyes the <hi>ſinfulneſſe</hi> of ſin, and that eſpecially in its own nature, as moſt contrary to God, his nature, his will, his works, his deſignes, his glory.</p>
+            <p>For this ſee at large <hi>Burroughes</hi> treatiſe of <hi>the Evill of Evils, or the ſinfulneſſe of Sin.</hi> Dr. <hi>Reynolds</hi> of the <hi>Sinfulneſs of ſin.</hi> &amp;c.</p>
+            <p n="3">3. Set before you the evill <hi>effects</hi> and fruits of ſin, upon the fallen Angels, Man<g ref="char:EOLhyphen"/>kind, thine own perſon;
+<note place="margin">
+                  <hi>Rom.</hi> 6.22.</note> and thoſe either already felt, or that hereafter may be fea<g ref="char:EOLhyphen"/>red.</p>
+            <p n="4">4. Set before you the Bloud of Chriſt,
+<note place="margin">1 <hi>Pet.</hi> 1.19. <hi>Rom.</hi> 6.1, 2 <hi>Pſal. Rom.</hi> 7.24.</note> that pretious bloud, which is the price of your Redemption from the leaſt of ſins.</p>
+            <p n="5">5. Set before you the ſad complaints of the Saints and ſervants of God becauſe of ſin, and againſt their ſin.</p>
+            <p n="6">6.
+<note place="margin">2 <hi>Cor.</hi> 7.1.</note> Set before you the gracious promiſes for your encouragement in the mortifica<g ref="char:EOLhyphen"/>tion of your corruption,
+<note place="margin">
+                  <hi>Ezek.</hi> 36, 26, 27.</note> together with the promiſes in the covenant of Grace for your
+<pb n="12" facs="tcp:62699:9"/>aſſiſtance in this undertaking.</p>
+            <p n="7">7. Set before you your own reſolutions and vowes againſt it in your firſt convicti<g ref="char:EOLhyphen"/>on and converſion,
+<note place="margin">
+                  <hi>Rom.</hi> 6.3. <hi>Pſ.</hi> 119.106.</note> renewed in times of af<g ref="char:EOLhyphen"/>fliction, and in Sacraments, and in Prayers put up to God for peace and pardon.</p>
+            <p>Practicall and operative Directions.</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Pſ.</hi> 4.4. <hi>Lam.</hi> 3.39.</note> Acquaint your ſelves, as with the <hi>ge<g ref="char:EOLhyphen"/>nerall</hi> corruption, ſo with the <hi>particular</hi> corruption in your nature: ſearch and find them out. Examine your hearts and lives, your diſpoſitions, and converſations, by the rule of the Word, and Law of God, in its purity and perfection, and by the light of the ſpirit of God in its teachings and convictions:
+<note place="margin">
+                  <hi>Job.</hi> 34.32</note> pray to God to diſcover you unto your ſelves: improve all ordinances and providences alſo to that purpoſe: con<g ref="char:EOLhyphen"/>ſider your Conſtitution, Education, Cal<g ref="char:EOLhyphen"/>ling, Company, and Condition in this pre<g ref="char:EOLhyphen"/>ſent world: make uſe of the wholſome ad<g ref="char:EOLhyphen"/>monitions of others ſkilfull, and faithfull, and acquainted with you, and their obſer<g ref="char:EOLhyphen"/>vations on you; the daily motions and wor<g ref="char:EOLhyphen"/>kings of your hearts upon carnall and ſen<g ref="char:EOLhyphen"/>ſuall objects, and upon the approaches of temptations, will diſcover much unto you, if but well obſerved: the failings and the falls of others read or heard, and diſcerned
+<pb n="13" facs="tcp:62699:9"/>by you, may give you occaſion of reflecti<g ref="char:EOLhyphen"/>on on your ſelf: and ſtrict enquiry may find out more then otherwiſe might have been ſuſpected.</p>
+            <p n="2">2. Be much at work about the root of ſin, and digging it up.
+<note place="margin">
+                  <hi>Rom.</hi> 6.6. <hi>Jer.</hi> 4.14.</note> Content not your ſelves with the particular branches, the lop<g ref="char:EOLhyphen"/>ping them off, or cutting down the trunk it ſelf; the root will be every day new ſprouting.</p>
+            <p n="3">3. Spare not at all your <hi>beloved</hi> ſin, of which Divines ſpeak much. It's found,
+<note place="margin">
+                  <hi>Pſ.</hi> 18.23.</note> they ſay, and known, by our ſpeciall reſpects unto it, and favour for it, our impatiency of reproof from Miniſter, or private Chri<g ref="char:EOLhyphen"/>ſtian on that particular: we moſt wiſh and deſire that it were not accounted a ſin: and are apt to find out reaſonings for it, to de<g ref="char:EOLhyphen"/>fend it, or at leaſt to leſſen our apprehen<g ref="char:EOLhyphen"/>ſions of its ſinfulneſſe: it returns moſt often upon us, with obſervation above any other in particular; but not without fre<g ref="char:EOLhyphen"/>quent checks of conſcience, and convictions of the Spirit: it much follows us in our re<g ref="char:EOLhyphen"/>tirements, and when alone, the mind will work upon it, though perhaps we are not willing to be found in the actings of it: ſome ſay it lies down with us in our beds, converſes with us in our dreams, and riſes
+<pb n="14" facs="tcp:62699:10"/>with us in the morning: if it diſtract us not in our holy duties, we owe the more to Grace reſtraining: ſeverall others depend upon it, to feed or ſerve it. O down with this.</p>
+            <p n="4">4. Neglect not the little <hi>creepers:</hi> they may grow bigger:
+<note place="margin">
+                  <hi>Rom.</hi> 7. <hi>Pſ.</hi> 19.12.</note> their number may prove not only formidable, but fatall: the leaſt is ſin, in its nature evill, and according to Gods law, without repentance and faith in the bloud of Chriſt, is damnable. They will certainly make way for greater; and if not deſtroy, yet diſturb your ſoules &amp;c.</p>
+            <p n="5">5.
+<note place="margin">
+                  <hi>Pſ.</hi> 19.13.</note> Infirmities, Incurſions, Imperfecti<g ref="char:EOLhyphen"/>ons, muſt be bewailed &amp;c. but <hi>ſcandalous</hi> evils, and <hi>preſumptuous</hi> ſins may not ſo much as be thought upon without an hor<g ref="char:EOLhyphen"/>rour; how much leſſe in their temptations entertained, and leaſt of all committed. The ſmalleſt tincture of them muſt be ſpee<g ref="char:EOLhyphen"/>dily waſht away in the bloud of Chriſt; otherwiſe your ſoules and conſciences will not dare to come into God's preſence.</p>
+            <p n="6">6.
+<note place="margin">1 <hi>Cor.</hi> 5.</note> Contract not upon your Souls the guilt of <hi>nationall</hi> tranſgreſſions, either paſt or preſent, by not mourning for them; much leſſe by commiſſion of them, and communion in them: it would ſtaine our Paper once to name them.</p>
+            <p n="7">
+               <pb n="15" facs="tcp:62699:10"/> 7. Find out and deſtroy the <hi>Achans,</hi>
+               <note place="margin">
+                  <hi>Job.</hi> 34.31 &amp;c.</note> the ſins for which in an eſpeciall manner God now or at any time may ſtrike and enter into judgment with you: the Lord direct you in that Enquiry, and aſſiſt you in that Undertaking.</p>
+            <p n="8">8 Let <hi>ſpirituall</hi> ſins,
+<note place="margin">2 <hi>Cor.</hi> 7.1.</note> though leaſt diſcer<g ref="char:EOLhyphen"/>ned and enquired after, have their diſcove<g ref="char:EOLhyphen"/>ry, humiliation, repentance, and crucifixi<g ref="char:EOLhyphen"/>on: as ſpirituall pride, ſelf love,
+<note place="margin">
+                  <hi>Pſ.</hi> 77.10. <hi>Heb.</hi> 3.12.</note> wordly mindedneſſe, eſtrangement from God; and more eſpecially your <hi>Goſpell</hi> ſins, as Unbe<g ref="char:EOLhyphen"/>liefe, Impenitency, hardneſſe of heart, unthankfulneſſe, &amp;c.</p>
+            <p n="9">9. Whatever they be, intend not only the knowledge of them, humiliation under them, reſtraint upon them, correction,
+<note place="margin">
+                  <hi>Rom.</hi> 8.13.</note> or ſuppoſe ſome ſignall puniſhment. but com<g ref="char:EOLhyphen"/>pleat <hi>deſtruction</hi> and <hi>abolition.</hi>
+            </p>
+            <p>And for this purpoſe, 1.
+<note place="margin">
+                  <hi>Pſ</hi> 119.</note> get deep im<g ref="char:EOLhyphen"/>preſſions made upon your ſpirits by the foregoing conſiderations. 2.
+<note place="margin">
+                  <hi>Pſ.</hi> 119.11.</note> Eſpecially let the word of God be hid in your hearts, and written upon them. 3. Walk in the Spirit, and ye ſhall not fulfill the luſts of the fleſh.
+<note place="margin">
+                  <hi>Gal.</hi> 5.16.</note> 4.
+<note place="margin">1 <hi>Cor.</hi> 9.27</note> Make no proviſion for the fleſh to fulfill the luſts thereof, but rather keep it in ſub<g ref="char:EOLhyphen"/>jection. 5.
+<note place="margin">
+                  <hi>Jer.</hi> 17.9. <hi>Job.</hi>
+               </note> Be alwaies jealous of your de<g ref="char:EOLhyphen"/>ceitfull hearts. 6. Keep a tender conſci<g ref="char:EOLhyphen"/>ence.
+<pb n="16" facs="tcp:62699:11"/>7. A narrow watch over your ſen<g ref="char:EOLhyphen"/>ces. 8. Take heed in things lawfull, leſt you be unlawfully inſnared. 9. Improve affliction to the mortification of corrupti<g ref="char:EOLhyphen"/>on: and 10. call in the influences of the Covenant of Grace, and of the <hi>bloud</hi> of Chriſt by faith and prayer. 11. Improve every Ordinance according to its nature and tendency to mortification.
+<note place="margin">
+                  <hi>Eph.</hi> 6.12.</note> 12. Stand out ſtifly and reſolutely in the hour of Temptation, and the ſtirring of corrupti<g ref="char:EOLhyphen"/>on: then call in all your ſtrength about you, then urge your conſiderations from reaſon, and Scripture, Law and Goſpell. Set your ſelves under the eye and ſight of God, let God's terrors make you afraid to ſin againſt him: ſuppoſe that Death and Judgment were at your heels, and that you heard the ſhreekings of the Damned for thoſe very tranſgreſſions. Behold Chriſt Jeſus upon the Croſſe as bleeding, dying, for thoſe very ſins. Urge home the grace of God, and the love of Chriſt, your holy Profeſſion, your Baptiſmall vowes, your Sacrament-renewed-ingagements, the mer<g ref="char:EOLhyphen"/>cies received, the Glory expected, and all to ſhame you from it, if there be any thing of holy ingenuity to be found upon you: at leaſt what ſin hath coſt you in re<g ref="char:EOLhyphen"/>pentance
+<pb n="17" facs="tcp:62699:11"/>and affliction: and that you may farther ſuffer, though Hell be not your fi<g ref="char:EOLhyphen"/>nall portion. Then call in by ſaith and prayer the help of God, and all the vertues of the bloud of Chriſt: maintaine your ground againſt its firſt aſſaults, and you have more then overcome. 13. If at any time it have ſurpriz'd you,
+<note place="margin">
+                  <hi>Pſ.</hi> 51.</note> play an af<g ref="char:EOLhyphen"/>tergame of Repentance, recruit your ſtrength, improve your skill and ſtrength, and deliver your ſouls. O lie not under it, much leſſe ſubject your ſelves unto it, and renounce thereby as by an after-free and full conſent your Soveraign and Saviour Jeſus Chriſt. 14. Watch the more againſt it, and fortifie your ſelves for the time to come. 15. When one corruption or tem<g ref="char:EOLhyphen"/>ptation is over and diſappointed, conclude not your work is done; there are innume<g ref="char:EOLhyphen"/>rable more behind, and while life laſteth, there will be no end of this warfare. 16.
+<note place="margin">
+                  <hi>Ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 7.24.</note> Be alwaies groaning under the invincible remainders of the body of death, and long for your deliverance 17. Take heed of Apoſtacy and backſliding; a ſin not alto<g ref="char:EOLhyphen"/>gether unpardonable, but dangerous,
+<note place="margin">
+                  <hi>Hoſ.</hi> 14.</note> and that may coſt you dear e're you recover. 18.
+<note place="margin">
+                  <hi>Rom.</hi> 7.25.</note> Give all the glory of your Conqueſts to Jeſus Chriſt, and to the power of grace.
+<pb n="18" facs="tcp:62699:12"/>19. Enjoy the comfort of Believers that keep their ground and conquer.
+<note place="margin">
+                  <hi>Rom.</hi> 8.1.</note> For 1. you are in a ſtate of pardon and ſalvation. 2.
+<note place="margin">
+                  <hi>Rom.</hi> 7.20.</note> No corruption of nature, no tranſgreſ<g ref="char:EOLhyphen"/>ſion in your life is imputed to you to your particular condemnation, when diſowned, reſiſted, repented of, and carried by ſaith to the bloud of Chriſt. 3. The old domi<g ref="char:EOLhyphen"/>nion of Sin,
+<note place="margin">
+                  <hi>Rom.</hi> 6.14</note> once truly broken, ſhall never be recovered: you are not under the Law, but under Grace.
+<note place="margin">1 <hi>Tim.</hi> 4.8.</note> 4. Your particular Conflicts ſhall be rewarded, if through Grace they proceed to Conqueſt.
+<note place="margin">
+                  <hi>Eph.</hi> 5.26.</note> 5. At length the body of Sin and Death ſhall be deſtroyed.
+<note place="margin">1 <hi>Cor.</hi> 12.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 6. In the mean time the grace and ſtrength of Chriſt is ſufficient for you, and when ſought by faith, humility, and prayer,
+<note place="margin">1 <hi>Cor.</hi> 15.50. &amp;c.</note> it ſhall not be denyed. 7. In Hea<g ref="char:EOLhyphen"/>ven there will be no ſin, no ſorrow, but perfect holineſſe and purity, with everla<g ref="char:EOLhyphen"/>ſting ſongs of Joy and Triumph.
+<note place="margin">
+                  <hi>Rev.</hi> 22.20.</note> Therefore (20) pray, believe, and look, and long for the comming of Chriſt: even ſo come Lord Jeſus, come quickly.</p>
+            <p>Much of this was preached at <hi>Mary Arches,</hi> on <hi>Rom.</hi> 6 6.</p>
+            <p>Read more in Dr. Owen <hi>of Mortification.</hi> Burroughes <hi>Evill of Sin.</hi> Love <hi>of Mort.</hi> Morning Exerciſe at <hi>Giles</hi> and <hi>Crypplegate.</hi>
+               <pb n="19" facs="tcp:62699:12"/>Ambroſe <hi>Media.</hi> Goodwins <hi>works,</hi> &amp;c. Reyners <hi>rules,</hi> &amp;c.</p>
+         </div>
+         <div n="3" type="section">
+            <head>SECT. III. <hi>Of the Exerciſe of Grace, Spirituall activity, growth, progreſſe, and perſeverance in ſan<g ref="char:EOLhyphen"/>ctification, and holy converſation.</hi>
+            </head>
+            <p>WE have ſeen the Convert in his ex<g ref="char:EOLhyphen"/>erciſe and progreſſe of Mortifica<g ref="char:EOLhyphen"/>tion, in the next place it is meet to conſider him in his exerciſe, progreſſe, and perſe<g ref="char:EOLhyphen"/>verance in <hi>Sanctification,</hi> and holy <hi>conver<g ref="char:EOLhyphen"/>ſation.</hi> For in that alſo the Word which is accordng to Godlineſſe doth repreſent him to us. See <hi>Gen.</hi> 17.1 <hi>Eph.</hi> 2.10. <hi>Eph.</hi> 4.20, 21, 22. &amp;c. <hi>Eph.</hi> 5.8, 9. &amp;c. <hi>Phil.</hi> 1.27 2 <hi>Pet.</hi> 3. 1 <hi>Cor.</hi> 15. <hi>Rom.</hi> 2.7. <hi>Heb.</hi> 12.14. <hi>Rev.</hi> 22.14. and <hi>reaſon good;</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 1.4. <hi>Titus</hi> 2.14. <hi>Eph.</hi> 2.10. <hi>Gal</hi> 5.15. <hi>Rem.</hi> 8.1. 1 <hi>Pet.</hi> 1. <hi>Rev.</hi> 22.14 <hi>&amp;c. Eph.</hi> 1.4. <hi>Heb.</hi> 8.10. <hi>Eph.</hi> 5.25.</note> for to this he is elected, redeemed, called, anew created, and made partaker of the ſpirit of holineſſe. This is the evidence of his Juſti<g ref="char:EOLhyphen"/>fication, the quality of his Adoption, his way, and walke towards the Kingdome and Salvation. This is the deſigne of the <hi>methods</hi> of Grace towards him, the <hi>cove<g ref="char:EOLhyphen"/>nant</hi> of Grace eſtabliſhed with him, the <hi>means</hi> of Grace beſtowed upon him, the
+<pb n="20" facs="tcp:62699:13"/>
+               <hi>word</hi> of grace without him, the <hi>principle</hi> of grace within him.
+<note place="margin">
+                  <hi>Gal.</hi> 5.15. 1 <hi>Pet.</hi> 1.14. <hi>Eph.</hi> 5.1. <hi>Rom.</hi> 6. 1 <hi>Cor.</hi> 5.7, 8. <hi>Rom.</hi> 12.1. <hi>Heb.</hi> 12 10 <hi>Gal.</hi> 4.19. 2 <hi>Cor.</hi> 5.14. 2 <hi>Cor.</hi> 6.17 <hi>Pſ.</hi> 119. 1 <hi>Joh.</hi> 3.3. 1 <hi>Joh.</hi> 1.5, 6.</note> This, the <hi>Relations</hi> where<g ref="char:EOLhyphen"/>into he is entred, the <hi>Profeſſion</hi> he hath made, the <hi>ſacraments</hi> of which he hath been partaker, the <hi>mercies</hi> he hath received, the <hi>miſeries</hi> that he hath felt, the <hi>pangs</hi> of the new Birth which he hath paſt through, the <hi>tokens</hi> of Divine Love vouchſafed, the <hi>ſeparation</hi> of his ſoule from Sin and Sinners, the <hi>dedication</hi> of his perſon and all to God and Godlineſſe, the <hi>hopes</hi> and promiſes of everlaſting life and bleſſedneſſe, the <hi>tenor</hi> of the Goſpell, all his <hi>priviledges,</hi> and par<g ref="char:EOLhyphen"/>ticularly his <hi>union</hi> and <hi>communion</hi> with Je<g ref="char:EOLhyphen"/>ſus Chriſt by faith, do call for all at his hands.
+<note place="margin">
+                  <hi>Iſ.</hi> 6.3.</note> Beſides, <hi>Holineſſe</hi> is no leſſe <hi>lovely</hi> then neceſſary. It is in its <hi>originall</hi> the glo<g ref="char:EOLhyphen"/>ry and perfection of all the Divine Attri<g ref="char:EOLhyphen"/>butes, eſſentiall in each perſon of the holy Trinity, Father, Son, and Holy Ghoſt; the <hi>Character</hi> of the name,
+<note place="margin">
+                  <hi>Gen.</hi> 1. <hi>Eph.</hi> 4. <hi>Pſal.</hi> 15. <hi>Rev.</hi> 21. 2 <hi>Cor.</hi> 1.12 1 <hi>Joh.</hi> 4. 1 <hi>Joh.</hi> 1. <hi>be<g ref="char:EOLhyphen"/>gin: Iſ.</hi> 56.</note> nature, will, word, and works of God; the <hi>beauty</hi> of mans firſt Creation, the <hi>intention</hi> of the ſecond; the <hi>delight</hi> of God, the <hi>ſtate</hi> of Heaven. Adde, the bleſſed <hi>fruits,</hi> effects, and comforts of it are no leſſe deſireable; as the <hi>evidence</hi> of the love of God, the grace of Chriſt, and the communion of the holy Ghoſt. How doth it <hi>fit</hi> us (through Chriſt) for acceſſe to
+<pb n="21" facs="tcp:62699:13"/>God, converſes with him,
+<note place="margin">
+                  <hi>Pſ.</hi> 50. <hi>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. &amp;c. Joh.</hi> 14.21. <hi>Rev.</hi> 2.</note> more abundant tokens and teſtimonies of love and favour from him: the <hi>peace</hi> of conſcience, the <hi>joy</hi> in the holy Ghoſt, and the <hi>foretasts</hi> of bleſ<g ref="char:EOLhyphen"/>ſedneſſe and glory that do attend it, who is able to expreſſe them? but we may not en<g ref="char:EOLhyphen"/>large in ſuch diſcourſes on it. It is to be ſuppoſed, that our Regenerate perſon is abundantly convinced of its neceſſity,
+<note place="margin">
+                  <hi>Pſ.</hi> 110.3. <hi>Cant.</hi> 1.4.</note> and that he hath felt its powers, and taſted its ſweetneſſes, and been attracted by its beau<g ref="char:EOLhyphen"/>ties, and is reſolved for its exerciſes here, and full enjoyments hereafter, and needs only ſome directions for it. Accordingly theſe that follow may be improved in <hi>ge<g ref="char:EOLhyphen"/>nerall,</hi> and in <hi>particular</hi>
+            </p>
+            <p n="1">1 Get the <hi>Habit</hi> of Grace and Sancti<g ref="char:EOLhyphen"/>fication (infuſed in regeneration,)
+<note place="margin">1 <hi>Pet.</hi> 2.2. <hi>Pſ.</hi> 42. <hi>&amp;</hi> 84. <hi>&amp;</hi> 63.</note> the new creature to be <hi>fed, nouriſhed,</hi> and <hi>preſerved:</hi> by the <hi>uſe,</hi> and <hi>bleſſing</hi> of God on the uſe of the meanes of grace, by removing out of the heart whatſoever might afflict or hinder it, weaken it or diſturb it,
+<note place="margin">1 <hi>Pet.</hi> 2. <hi>Math.</hi> 13. <hi>Rev.</hi> 12.</note> much more what hath immediate tendency to murther it and deſtroy it; and that is Sin, the World, and Sathan. Adde <hi>faith,</hi> and earneſt <hi>prayer</hi> to the God of all grace for the renewed <hi>influences</hi> of the ſpirit of grace,
+<note place="margin">
+                  <hi>Pſ.</hi> 119.</note> the <hi>accompliſhment</hi> of the promiſes
+<pb n="22" facs="tcp:62699:14"/>in the covenant of Grace,
+<note place="margin">
+                  <hi>Iſ.</hi> 35. <hi>Ezek.</hi> 36.26. <hi>Joh.</hi> 1.18.</note> and a liberall <hi>communication</hi> from Chriſt Jeſus the fulneſs and treaſury of grace.</p>
+            <p n="2">2. Be well acquainted with the <hi>compaſs</hi> of the activity of Grace:
+<note place="margin">
+                  <hi>Eph.</hi> 5.17.</note> what is expected from you in your capacity, both in heart and life, towards God, and man, and your own ſouls,
+<note place="margin">
+                  <hi>Tit.</hi> 2.12.</note> the ſeverall waies of duty, and the exerciſes of grace, in every relation, condition,
+<note place="margin">
+                  <hi>Pſ.</hi> 119</note> calling, time, and place, &amp;c. eſ<g ref="char:EOLhyphen"/>pecially, ſet the law and word of God, as the rule of life and of the new creature before you, that it may direct you; ſeeking ear<g ref="char:EOLhyphen"/>neſtly withall to God for his Holy ſpirit to guide you,
+<note place="margin">
+                  <hi>Pſ.</hi> 43.3. <hi>Rom.</hi> 8.14.</note> and lead you according to his word into waies of holyneſſe and obedience which are well pleaſing to him, and in his ſight.</p>
+            <p n="3">3. When you have ſound out the will of God,
+<note place="margin">
+                  <hi>Math.</hi> 6.10 <hi>Exod.</hi> 20. 2 <hi>Cor.</hi> 5.14. 2 <hi>Cor.</hi> 7.1.</note> and the way of duty, and the work of grace, <hi>reſigne</hi> your ſelves both ſoule and body, and all that you are and have, to God, and to his pleaſure: conſide<g ref="char:EOLhyphen"/>ring his <hi>authority</hi> over you, his <hi>love</hi> to you, and his <hi>promiſes</hi> before you, for acceptance, reward, and help: and as ſoules <hi>devoted</hi> to his pleaſure, <hi>inflamed</hi> with his love, and <hi>overpowred</hi> by his ſpirit, <hi>apply</hi> your ſelves to the <hi>exerciſe</hi> of graces, and the <hi>perfor<g ref="char:EOLhyphen"/>mance</hi>
+               <pb n="23" facs="tcp:62699:14"/>of duties, without delaies, demurres,
+<note place="margin">
+                  <hi>Pſal.</hi> 119. <hi>Pſ.</hi> 110.3. <hi>Gen.</hi> 17.1. <hi>Pſ.</hi> 119.6. <hi>Epp.</hi> 5.15. 2 <hi>Pet.</hi> 1.5. 1 <hi>Cor.</hi> 15. 1 <hi>Cor.</hi> 10.31. <hi>Gal.</hi> 6.16. <hi>Gal.</hi> 5.15. 2 <hi>Cor.</hi> 7.1. <hi>Rom.</hi> 12.2.</note> reluctancie, exceptions, reaſonings, moſt <hi>freely</hi> and <hi>readily,</hi> moſt <hi>ſincerely</hi> and <hi>faith<g ref="char:EOLhyphen"/>fully,</hi> moſt <hi>fully</hi> and <hi>unreſervedly,</hi> moſt <hi>exactly</hi> and <hi>accurately,</hi> moſt <hi>diligently</hi> and <hi>induſtriouſly,</hi> moſt <hi>reſelvedly</hi> and <hi>conſtantly.</hi>
+            </p>
+            <p n="4">4. In every undertaking, remember the <hi>end</hi> Gods glory, the <hi>rule</hi> Gods word, the <hi>principle</hi> Gods Spirit, the <hi>encourage<g ref="char:EOLhyphen"/>ment,</hi> Gods promiſe, the <hi>manner,</hi> as unto God well pleaſing; and in a word, the <hi>all in all</hi> Chriſt Jeſus, to direct and ſtrengthen you,
+<note place="margin">
+                  <hi>Col.</hi> 170. <hi>Col.</hi> 1.28. <hi>Joh.</hi> 15.5.</note> and to render perfect and acceptable to God, both your perſon and performance in his own mediation and interceſſion, without him you can do no<g ref="char:EOLhyphen"/>thing.</p>
+            <p n="5">5. In the exerciſe of Grace, theſe fol<g ref="char:EOLhyphen"/>lowing are <hi>Eſpecially</hi> to be intended, though none neglected, As 1.
+<note place="margin">
+                  <hi>Pro.</hi> 17.3.</note> The <hi>vitall</hi> and <hi>fundamentall</hi> graces towards God and Chriſt, as knowledg, faith, love, repentance,
+<note place="margin">
+                  <hi>Mal.</hi> 3.16.</note> obedience, &amp;c. Act and exerciſe your <hi>knowledg,</hi> in holy and honourable,
+<note place="margin">
+                  <hi>Pſ.</hi> 1.2.3.</note> right and reverentiall,
+<note place="margin">
+                  <hi>Rom.</hi> 4.20. 1 <hi>Pe.</hi> 1.24.</note> filial and fiduciall <hi>thoughts</hi> of God; your <hi>faith</hi> on the truth of his <hi>being,</hi> the greatneſſe of his <hi>power,</hi> the fulneſſe of his <hi>bleſſedneſſe,</hi> the treaſures of his <hi>mercies;</hi> the infiniteneſſe of his <hi>wiſdome,</hi> but eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="24" facs="tcp:62699:15"/>his <hi>Grace</hi> in Chriſt, with the freeneſſe, fulneſſe,
+<note place="margin">
+                  <hi>Joh.</hi> 14.1. <hi>Pſ.</hi> 23.</note> firmeneſſe of his <hi>promiſes;</hi> the ex<g ref="char:EOLhyphen"/>tent, power, and tenderneſſe of his provi<g ref="char:EOLhyphen"/>dence, and ſo towards Chriſt. Your Acts <hi>knowledg</hi> and <hi>Faith</hi> in <hi>thoughts</hi> on him,
+<note place="margin">
+                  <hi>Gal.</hi> 2.20.</note> 
+               <hi>choice</hi> of him, <hi>reſignations</hi> to him, <hi>dependance</hi> upon him.
+<note place="margin">
+                  <hi>Pſ.</hi> 84. <hi>Pſ.</hi> 37. <hi>Pſ.</hi> 40.8. <hi>Pſ.</hi> 73. <hi>Pſ.</hi> 77. <hi>Pſ.</hi> 19. <hi>Pſ.</hi> 31. <hi>Luk</hi> 15. <hi>Fſal.</hi> 119. <hi>Lords <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ray<g ref="char:EOLhyphen"/>er.</hi> 1 <hi>Sam.</hi> 15. <hi>Luk.</hi> 22. <hi>Brov.</hi> 4.23.</note> Act your <hi>love, deſiring</hi> his pre<g ref="char:EOLhyphen"/>ſence, his bleſſings, his honour and glory; <hi>devoting</hi> your ſoules to him, and <hi>delighting</hi> in him and in his ſervice, <hi>&amp;c.</hi> Act your <hi>repentance,</hi> in <hi>Griefe</hi> for ſin (yea even of infirmitie, and imperfection, and that in your very graces.) <hi>Abhorrency</hi> of evill, <hi>Humiliations</hi> in the ſence of vileneſſe and ſinfulneſſe, renewed and that howerly <hi>Con<g ref="char:EOLhyphen"/>verſions</hi> to him. Act your <hi>obedience</hi> in fre<g ref="char:EOLhyphen"/>quent <hi>ſubjections</hi> unto his will revealed in his word or works. 2. Have a ſpeciall heed to the <hi>Government</hi> of the ſeverall <hi>powers and faculties</hi> of your ſoules,
+<note place="margin">
+                  <hi>Heb.</hi> 9.12.</note> their <hi>Diſpoſitions</hi> and their <hi>operations;</hi> that all may be regular. 1. In the ſight of God, the <hi>ſearcher</hi> of the heart.
+<note place="margin">
+                  <hi>Rom.</hi> 7.</note> 2. According to the rule of the <hi>Word,</hi> which commands not only the outward, but the <hi>inward</hi> man. 3. Within is the principle <hi>ſeat</hi> of all ſancti<g ref="char:EOLhyphen"/>fying grace, and from thence gives it forth its commands and influences throughout the whole man. <hi>It is an excellent ſubject,
+<pb n="25" facs="tcp:62699:15"/>and but little inſiſted on, the government of the underſtanding, conſcience, will, memory, affections</hi> &amp;c. <hi>their proper actings in a way of grace and duty. For your help in this, See</hi> Ball <hi>of Godlineſſe, ſomething alſo there is to this purpoſe, in</hi> Penner <hi>on Conſcience and the Affections, and as I take it, in</hi> Reyners <hi>Rules,</hi> think well upon it. 4.
+<note place="margin">
+                  <hi>Rom.</hi> 6.19.</note> What if we adde to this the government of the <hi>ſences,</hi> and to them of the <hi>whole man,</hi> and all the <hi>members.</hi>
+            </p>
+            <p n="4">4. Look to the acting of thoſe graces, which are <hi>next</hi> to the vitall and fundamen<g ref="char:EOLhyphen"/>tall Graces; or, if you will,
+<note place="margin">
+                  <hi>Col.</hi> 1.10. <hi>Col.</hi> 2.6.</note> the <hi>branches</hi> of them, and <hi>attendants</hi> upon them, that ſo you may abound. 1. In every Grace; 2. In the various actings of the ſame Grace. 3. In the connexion of graces, and 4ly, Their actings in ſeverall caſes. as <hi>Humility, Meekneſs, Patience, Heaven<g ref="char:EOLhyphen"/>lineſs, Charity, Selfe-deniall, Hope,</hi> &amp;c. <hi>Give</hi> all and every grace its <hi>place</hi> and <hi>order,</hi> its <hi>time</hi> and <hi>ſeaſon,</hi> its <hi>life</hi> and <hi>power,</hi> it's <hi>meaſure</hi> and <hi>manner:</hi>
+               <note place="margin">
+                  <hi>Cant.</hi> 2.14. <hi>Cant.</hi> 4.7.</note> this makes a <hi>beauty</hi> ſpirituall and glorious in the <hi>Countenance</hi> of the Chriſtian, whether in the frame with<g ref="char:EOLhyphen"/>in, or in the forme of the life and conver<g ref="char:EOLhyphen"/>ſation without; That within to the eye of God, that without to the eye of God, Angels, and men.</p>
+            <p n="5">
+               <pb n="26" facs="tcp:62699:16"/> 5.
+<note place="margin">
+                  <hi>Eph.</hi> 9. <hi>Rom.</hi> 13. 1 <hi>Pet.</hi> 2.12. <hi>Titus</hi> 2.10.</note> Next to this, have a ſpeciall reſpect to the proper Actings of the Graces in your <hi>relations,</hi> publique or private; theſe are your <hi>duties,</hi> theſe will be your <hi>ornaments,</hi> will ſet forth the Goſpell, and returne unto you a gracious entertainment (through Chriſt) with God, as well as man.</p>
+            <p n="6">6. Act your graces in <hi>Common converſes,</hi> thoſe particularly between man and man in dealing and trading,
+<note place="margin">1 <hi>Pet.</hi> 2.12. 1 <hi>Pro.</hi> 3 See Loves <hi>table of buying and trading.</hi>
+               </note> buying and ſelling, and all tranſactions: few conſider the ex<g ref="char:EOLhyphen"/>tent of the ſecond table, with the obliga<g ref="char:EOLhyphen"/>tion that it laies upon them, and how ſtrait<g ref="char:EOLhyphen"/>ly its bound on by Chriſt and his Apoſtles in the new Teſtament, as by <hi>Moſes</hi> and the Prophets in the old.</p>
+            <p n="7">7.
+<note place="margin">
+                  <hi>Mat.</hi> 0.0.</note> Look to your ſelves and the actings of grace even in your <hi>leſſer matters,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 13.</note> as your eating, drinking, ſleeping, &amp;c. <hi>apparell, recreation,</hi> &amp;c. learn not only, in theſe to do <hi>nothing ſinfull,</hi> but alſo to Act your <hi>Graces,</hi> and to <hi>Glorify</hi> your God, and to <hi>approve</hi> your ſelfe a Chriſtian.</p>
+            <p n="6">6.
+<note place="margin">1 <hi>Cor.</hi> 10.31.</note> 
+               <hi>Dir.</hi> Labor not only to preſerve grace, and exerciſe it, but to <hi>grow in Grace</hi> and to <hi>Abound in it,</hi> both for the <hi>habit</hi> of grace, and for the <hi>exerciſe</hi> of grace, by this you will more abundantly <hi>glorify</hi> God, <hi>enrich</hi> your evidences, <hi>encreaſe</hi> your comfort, and <hi>grea<g ref="char:EOLhyphen"/>ten</hi>
+               <pb n="27" facs="tcp:62699:16"/>your reward:
+<note place="margin">1 <hi>Cor.</hi> 15. 2 <hi>Pet.</hi> 3. <hi>Pro.</hi> 15. 2 <hi>Pet.</hi> 1. <hi>Iſa.</hi> 35. 1 <hi>Pet.</hi> 2.2. <hi>Pro.</hi> 1.18.</note> For this you have <hi>pro<g ref="char:EOLhyphen"/>miſes</hi> in the Goſpell, <hi>advantages</hi> in the or<g ref="char:EOLhyphen"/>dinances, and <hi>helps</hi> from Chriſt; there's a <hi>fulneſſe</hi> with him, you have <hi>intereſt</hi> in him, you may <hi>apply</hi> your ſelves to him, and there need no queſtion, but you ſhall <hi>re<g ref="char:EOLhyphen"/>ceive</hi> abundantly from him: only you muſt enlarge your <hi>deſires,</hi> and heighten your <hi>faith,</hi> and uſe the <hi>means: ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſhing</hi> the ſpirit, <hi>weeding</hi> out corruptions, and <hi>exerci<g ref="char:EOLhyphen"/>ſing</hi> your graces. Be much in <hi>prayer,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 25.</note> put in ſuit the <hi>promiſes,</hi> beg for <hi>influences;</hi> take heed of <hi>pride,</hi> and be humble, take heed of <hi>worldly mindedneſſe,</hi> and be heavenly,
+<note place="margin">
+                  <hi>Phil.</hi> 3.20.</note> be not <hi>careleſs</hi> in duties, but ſervent in ſpirit, ſerving the Lord:
+<note place="margin">
+                  <hi>Rom.</hi> 12.</note> 
+               <hi>Converſe</hi> much with the <hi>Scripture; warme,</hi> and enlarge your hearts with the ſence of the <hi>love</hi> of God and Chriſt,
+<note place="margin">2 <hi>Cor.</hi> 5. <hi>Rom.</hi> 5.5. <hi>Heb.</hi> 11.</note> 
+               <hi>lock</hi> often towards the pro<g ref="char:EOLhyphen"/>miſed <hi>reward, keep</hi> in your eye the <hi>exam<g ref="char:EOLhyphen"/>ples</hi> of the beſt Chriſtians,
+<note place="margin">
+                  <hi>Heb.</hi> 12.1.2.</note> but <hi>eſpecially</hi> Chriſt Jeſus, as your great example; <hi>reſt</hi> not in <hi>meaſures,</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 3.10.</note> intend towards <hi>perfection</hi> and the ſtate of the reſurrection from the dead: <hi>Neglect</hi> the improvement of no grace,
+<note place="margin">
+                  <hi>Jude</hi> 20.21.</note> but eſpecially lay out in <hi>vitall</hi> gra<g ref="char:EOLhyphen"/>ces; and for others, be moſt carefull for the moſt <hi>needfull,</hi> in your capacity and condi<g ref="char:EOLhyphen"/>tion; the like where you are moſt <hi>weak:</hi>
+               <pb n="28" facs="tcp:62699:17"/>Be <hi>nothing</hi> in your ſelves be <hi>all</hi> in Chriſt:
+<note place="margin">
+                  <hi>Rev.</hi> 3.2. <hi>Phil.</hi> 4.13.</note> This is the way to encreaſe it in the habit; only further know,
+<note place="margin">
+                  <hi>Eph.</hi> 1.21.22.</note> that as grace abounds in the heart, ſo it need to do in the <hi>life.</hi> 1. In the <hi>frequent</hi> actings of the ſame gra<g ref="char:EOLhyphen"/>ces,
+<note place="margin">
+                  <hi>Eph.</hi> 4.7.</note> as they are required. 2. In the <hi>di<g ref="char:EOLhyphen"/>verſe</hi> actings of ſeverall graces, as the caſe may command it,
+<note place="margin">
+                  <hi>Col.</hi> 1.10.</note> And in the <hi>lively</hi> and vigorous actings of all. You have a <hi>re<g ref="char:EOLhyphen"/>ward</hi> enough to encourage all,
+<note place="margin">1 <hi>Cor.</hi> 15.</note> you have <hi>waies</hi> enough to put forth all, you ſhall have grace of <hi>influence</hi> to furniſh all:
+<note place="margin">
+                  <hi>Heb.</hi> 13.20, 21. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Theſ.</hi> 1.11, 12.</note> you have <hi>ingagements</hi> enough from the love of God, the grace of Chriſt, the gift of the ſpirit, the promiſes of the Goſpell, the pri<g ref="char:EOLhyphen"/>veledges of Grace, the hopes of glory to provoke to all. Such things <hi>conſidered,</hi> and ſuch meanes <hi>uſed,</hi> will alſo ſerve to keep up your hearts in a <hi>lively</hi> frame of ſpirit, and readineſſe for duty and ſervice, this will <hi>quicken</hi> you when dull, <hi>enlarge</hi> when ſtraitned, and ſet all the <hi>wheeles</hi> of your ſoules on going.</p>
+            <p>
+               <hi>Laſtly,</hi> Look to your <hi>ſtanding and perſe<g ref="char:EOLhyphen"/>verance:
+<note place="margin">1 <hi>Theſ.</hi> 3.8. <hi>Pro. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ep. Heb.</hi> 6. <hi>Rev.</hi> 2. <hi>Heb.</hi> 10. <hi>Pſ.</hi> 51.</note> Apoſtacies</hi> are dangerous; ſome are deſperate, the leaſt is too bad though you looſe not your crown, yet looſe not your comfort, your communion with God, your evidences, your earneſts, no nor your
+<pb n="29" facs="tcp:62699:17"/>graces themſelves,
+<note place="margin">
+                  <hi>Pſ.</hi> 51.29.</note> thougſt in the leaſt de<g ref="char:EOLhyphen"/>grees: you may looſe your Jewels, though not your crown; and the ſparks of dia<g ref="char:EOLhyphen"/>monds the ſhings of gold, and the minute degrees of grace are too precious to be loſt. Therefore <hi>reglect</hi> not the meanes,
+<note place="margin">
+                  <hi>Rev.</hi> 3.1.</note> 
+               <hi>tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> of <hi>omiſſions, watch</hi> againſt your temptation, <hi>ſit</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> looſe from <hi>Chriſt, abate</hi> not in your <hi>exerciſe:</hi> here withall <hi>remem<g ref="char:EOLhyphen"/>ber, that you ſtand not by your own ſtrength,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 11. 1 <hi>Pet.</hi> 1.25 3, 4, 5.</note> but by the love of the father, the blood of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the power of the ſpirit, and the performance of the promiſe.</p>
+            <p>For this reflect on <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmons of regenera<g ref="char:EOLhyphen"/>tion,</hi> John 3. at <hi>Petrocks; Walking in the ligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at</hi> Mary-Moores on <hi>Joh.</hi> 12.35. and on <hi>Phil.</hi> 3 2. laſt v. <hi>and</hi> Noahs <hi>walking with God</hi> on <hi>Gen.</hi> 6 at <hi>Mary Arches,</hi> &amp;c. you may find much more in <hi>Ball, of Godlineſs: Love, of grace;</hi> Burges <hi>his Spirituall refinings:</hi> Burroughs <hi>gracious ſpirit:</hi> Burroughs <hi>Converſation becoming the Goſpell,</hi> and <hi>his Heavenly Converſation.</hi> Bolton's <hi>Walking with God.</hi> T. Taylor <hi>circumſpect walking, and</hi> Biſhop Taylors <hi>Holy living.</hi> Gouge <hi>Of Relative duties, whole duty of man.</hi> Ambroſe <hi>Media.</hi> Goodwins <hi>growth in grace,</hi> &amp;c. <hi>Cripplegate</hi> Exerciſe, <hi>Reyner, Henner.</hi> Rey<g ref="char:EOLhyphen"/>nolds <hi>life of God.</hi>
+            </p>
+         </div>
+         <div n="4" type="section">
+            <pb n="30" facs="tcp:62699:18"/>
+            <head>SECT. IV. <hi>Of the Chriſtians daily walk.</hi>
+            </head>
+            <p>
+               <hi>EVery day</hi> hath its duty in Common and <hi>ordinary,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 3.</note> and ſome daies in <hi>extraordi<g ref="char:EOLhyphen"/>nary</hi> actings of grace, and performance of duty; to the <hi>Glorifying</hi> of God, and to the <hi>working</hi> out of our ſalvation: for this take and practiſe theſe directions following: <hi>the word be your rule, the ſpirit be your guide, and Chriſt Jeſus be your ſtrength.</hi>
+            </p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Pſal.</hi> 5.3.</note> In the <hi>Morning,</hi> when you awake, lift up your heart to God; be <hi>thankfull</hi> for the mercies of the night, deſire the gui<g ref="char:EOLhyphen"/>dance, grace, mercy, and providence for the day; <hi>ſend</hi> up ſome Holy Ejaculations: <hi>Conſider</hi> what may be moſt likely the duty and temptation of the day, <hi>ſet</hi> your ſpirituall watch, <hi>ingage</hi> your hearts with God, and <hi>warme</hi> it with the thoughts of his love, and the hopes of his kingdome.</p>
+            <p n="2">2.
+<note place="margin">
+                  <hi>Pſal.</hi> 1.2.</note> 
+               <hi>Seaſon</hi> your hearts with ſome por<g ref="char:EOLhyphen"/>tion of his <hi>word,</hi> read firſt what may next come to your hands, proceed then in your ordinary courſe for your morning reading of the Scriptures: <hi>work</hi> what you have
+<pb n="31" facs="tcp:62699:18"/>read, upon your heart,
+<note place="margin">
+                  <hi>Pſ.</hi> 5.3.</note> by ſerious medita<g ref="char:EOLhyphen"/>tion, and then <hi>addreſs</hi> your ſelfe to God, as you have place and opportunity in ſo<g ref="char:EOLhyphen"/>lemne <hi>prayer:</hi> from thence in fit ſeaſon (ere the occaſions of the world fall in) diſ<g ref="char:EOLhyphen"/>charge the duties in your <hi>family,</hi>
+            </p>
+            <p n="3">3.
+<note place="margin">
+                  <hi>Rom.</hi> 12.11. <hi>Eph.</hi> 6.7.</note> 
+               <hi>Apply</hi> your ſelfe with diligence to the duty of your <hi>Calling,</hi> in the <hi>fear</hi> of God, with a good <hi>Conſcience, depending</hi> on his preſence, favour, and bleſſing.</p>
+            <p n="4">4. <hi>Keep</hi> upon your hearts,
+<note place="margin">
+                  <hi>Gen.</hi> 17.1.</note> the ſence of the <hi>eye</hi> of God, that ſees all, the <hi>ear</hi> of God that heares all, and the <hi>hand</hi> of God that records all, eſpecially the <hi>word</hi> of God that is to rule all, and his <hi>providence</hi> to bleſſe all: do <hi>nothing</hi> that may diſpleaſe him, do <hi>every thing</hi> according to his will, and to his glory.</p>
+            <p n="5">5. <hi>In</hi> temporall employments and ſecu<g ref="char:EOLhyphen"/>lar occaſions act <hi>ſpirituall graces,</hi> mind eter<g ref="char:EOLhyphen"/>nity, your ſpirituall concernments,
+<note place="margin">
+                  <hi>Phil.</hi> 3.20.</note> ſend frequent, holy <hi>ejaculations</hi> towards Heaven, and ſo maintaine Communion with God throughout the day, and in the midſt of your employments.</p>
+            <p n="6">6. <hi>Watch</hi> againſt the <hi>temptations</hi> of the day, the occaſions to ſin, and the firſt mo<g ref="char:EOLhyphen"/>tions and ſtirrings of corruptions, and thoſe either rooted in thy diſpoſition,
+<note place="margin">1 <hi>Pet.</hi> 5.8. 1 <hi>Pet.</hi> 2.11.</note> or
+<pb n="32" facs="tcp:62699:19"/>occaſioned in thy calling:
+<note place="margin">1 <hi>Pet.</hi> 5.8. <hi>&amp;</hi> 2.11.</note> 
+               <hi>Take heed of ſin<g ref="char:EOLhyphen"/>ning.</hi>
+            </p>
+            <p n="7">7. Take not only care of ſinning, but be found (as occaſion is offered) in all <hi>well<g ref="char:EOLhyphen"/>doing.</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 1.16. <hi>Tit.</hi> 2.12. <hi>Mica.</hi> 6.8.</note> Adorne the Goſpell, and approve thy ſelf a Chriſtian by acts of <hi>Righteouſneſs, Justice,</hi> and <hi>Equity</hi> in all thy dealings, and withall of <hi>mercy</hi> and <hi>charity,</hi> as it lies before thee.</p>
+            <p n="8">8. Take care of thy <hi>words;</hi> let none be profane,
+<note place="margin">
+                  <hi>Math.</hi> 12.36.37. 1 <hi>Pet.</hi> 3.10.</note> ſinfull, frothy, uncharitable, but true, and ſeaſoned with grace, admi<g ref="char:EOLhyphen"/>niſtring grace to the hearers: uſe not too many words in buying and ſelling; <hi>hear</hi> few ſtories that little concern you, and <hi>tell</hi> leſs. <hi>Think</hi> before you ſpeak; <hi>remember</hi> there is an account to be made of words, <hi>by theſe alſo thou ſhalt be juſtified,
+<note place="margin">
+                     <hi>Math.</hi> 12.37.</note> and by them thou mayeſt be condemned.</hi>
+            </p>
+            <p n="9">9.
+<note place="margin">1 <hi>Cor.</hi> 10.31. <hi>Tit.</hi> 2.12.</note> In all <hi>refreſhments</hi> of food, or recre<g ref="char:EOLhyphen"/>ation, be <hi>ſober, ſerious,</hi> and <hi>ſpirituall.</hi>
+            </p>
+            <p n="10">10. Upon <hi>rovings</hi> and <hi>wandrings</hi> call <hi>in</hi> thine heart,
+<note place="margin">Eccleſ. Prov.</note> and let not thy thoughts be too far diſperſed, or too long diſingaged from communion with God, ſoul-concern<g ref="char:EOLhyphen"/>ments, and matters of Eternity.</p>
+            <p n="11">11.
+<note place="margin">
+                  <hi>Eph.</hi> 4.26.</note> Take heed of <hi>paſſions,</hi> raſh anger, ſudden ſurpriſals or provocations, that may be offered. Do no wrong: take notice
+<pb n="33" facs="tcp:62699:19"/>of little, forgive much, forbear retaliation in words or actions: in great affronts be not too much diſturbed, and commit e<g ref="char:EOLhyphen"/>vents and returns to God.</p>
+            <p n="12">12.
+<note place="margin">
+                  <hi>Eph.</hi> 6.1. <hi>Eph.</hi> 5.22.</note> 
+               <hi>Fill</hi> up Relations with <hi>relative du<g ref="char:EOLhyphen"/>ties,</hi> whether as ſuperior, or inferior, or equall: be obedient to the commands of Superiours according to the will of God; be reſpectfull, kind, and friendly to equals; be moderate, tender, and gentle to inferi<g ref="char:EOLhyphen"/>ors. Do evill to none, but good to all.</p>
+            <p n="13">13. Beware of your <hi>company:</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 5.7.11. <hi>Pſ.</hi> 15.</note> have no more to do with <hi>wicked</hi> perſons, then of ne<g ref="char:EOLhyphen"/>ceſſity you muſt: let their preſence be your burthen, and their profaneneſſe your ab<g ref="char:EOLhyphen"/>horrency: let them know that you do not like them. Let the <hi>good</hi> be welcome, enter<g ref="char:EOLhyphen"/>taine them as Chriſtians; receive from them or give to them what may be ſpirituall.</p>
+            <p>Let your <hi>time</hi> be pretious,
+<note place="margin">
+                  <hi>Eph.</hi> 5.16.</note> and little or none be waſted; fill up all with neceſſary duties that belong unto it, or find out ſome<g ref="char:EOLhyphen"/>thing good and commendable to improve it. On moments of time depends eternity: let not ſpirituall and temporall duties in<g ref="char:EOLhyphen"/>terfer, but let each have their proper ſea<g ref="char:EOLhyphen"/>ſons; run not from thy particular calling to exerciſes of the generall, when unſea<g ref="char:EOLhyphen"/>ſonable; neglect not the generall for the
+<pb n="34" facs="tcp:62699:20"/>particular, when thou haſt thy freedome.</p>
+            <p n="15">15. Let not the <hi>world,</hi> or the things of the world be too earneſtly deſired, eagerly perſued,
+<note place="margin">1 <hi>Joh.</hi> 2.15 <hi>Phil.</hi> 4.11.</note> affectionately imbraced: be thank<g ref="char:EOLhyphen"/>full for, and content with neceſſaries; what's more, let it be improved in the chearfull ſervice of God, in works of piety and cha<g ref="char:EOLhyphen"/>rity. Keep thine heart at a diſtance, and looſe from all, and be contented to part with all,
+<note place="margin">
+                  <hi>Heb.</hi> 10.34.</note> when called to it; knowing that Heaven is thine inheritance, and God him<g ref="char:EOLhyphen"/>ſelf thy portion.</p>
+            <p n="26">26. <hi>Obſerve</hi> the waies and methods of God's <hi>providence</hi> towards thee from day to day: conſider the graces to be exerciſed on ſuch occaſions: Live the life of <hi>dependance</hi> on God's providence, and <hi>ſubjection</hi> to his will: be thankfull for his mercies, and en<g ref="char:EOLhyphen"/>dure his chaſtiſements. Let extraordinary diſpenſations have extraordinary obſerva<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="17">17. <hi>Remember</hi> to <hi>walke</hi> with God <hi>hum<g ref="char:EOLhyphen"/>bly,
+<note place="margin">
+                     <hi>Mica</hi> 6.8. <hi>Tit.</hi> 2.12.</note> cheerfully, obediently, and believingly.</hi> Carry your ſelves to men <hi>reſpectfully, righ<g ref="char:EOLhyphen"/>teouſly, friendly:</hi> demean your ſelves <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berly, gravely, prudently:</hi> bear all injuries <hi>patient<g ref="char:EOLhyphen"/>ly,</hi> receive all Kindneſſes <hi>thankfully,</hi> do all Courteſies <hi>readily.</hi>
+            </p>
+            <p n="18">18. <hi>Suffer</hi> no <hi>guilt</hi> contracted to lie
+<pb n="35" facs="tcp:62699:20"/>long upon you, but be often examining your ſelves;
+<note place="margin">
+                  <hi>Pſ.</hi> 19: <hi>Pſ.</hi> 32. <hi>beg.</hi>
+               </note> on ſence of ſin renew your re<g ref="char:EOLhyphen"/>pentance, and faith on the bloud of Chriſt, and returne to Duty.</p>
+            <p n="19">19.
+<note place="margin">
+                  <hi>Tit.</hi> 2.13.</note> 
+               <hi>Doe</hi> ſomething every day towards the <hi>laſt,</hi> in mortifying corruption, ſtrength<g ref="char:EOLhyphen"/>ning graces, increaſing knowledge, fur<g ref="char:EOLhyphen"/>thering your aſſurances, drawing nearer to Heaven in thoughts on it, deſires after it, preparations for it.</p>
+            <p n="20">20. In the <hi>evening</hi> of the day,
+<note place="margin">
+                  <hi>Pſ.</hi> 4.4.</note> 
+               <hi>reflect</hi> on what hath paſt, caſt up accounts, be <hi>humble</hi> for defects, <hi>repent</hi> of tranſgreſſions, be <hi>thankfull</hi> for mercies, <hi>renew</hi> your ac<g ref="char:EOLhyphen"/>quaintance with God as you have oppor<g ref="char:EOLhyphen"/>tunity in ſolemne duties of praier, medita<g ref="char:EOLhyphen"/>tion, and reading the Scriptures, or ſome good Books: performe theſe duties, as alſo your family duties, in good ſeaſon.
+<note place="margin">
+                  <hi>Pſ.</hi> 3.5. <hi>Pſ.</hi> 4. <hi>ult. ſee Pſ.</hi> 1 <hi>&amp;</hi> 42. <hi>&amp;</hi> 16.</note> When all is done, remember <hi>Mortality</hi> and <hi>Eter<g ref="char:EOLhyphen"/>nity.</hi> Act repentance and faith, and com<g ref="char:EOLhyphen"/>mit your ſoules, and bodies, and family to God, and to his keeping.</p>
+         </div>
+         <div n="5" type="section">
+            <pb n="36" facs="tcp:62699:21"/>
+            <head>SECT. V. <hi>Of Communion with God.</hi>
+            </head>
+            <p>THE Convert may no<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> advance to a more <hi>eſpeciali <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> God;</hi> and that not only as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>viledge, See 1 <hi>John</hi> 1.3. &amp;c. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 20. <hi>Job</hi> 22.21.</p>
+            <p>R For ſuch as have int<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God,
+<note place="margin">
+                  <hi>Rom.</hi> 5.1.</note> acceſſe to God, accepta<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith God are beloved of him, may <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and derive from him. This <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> partly preſuppoſeth, and partly requireth what we have in theſe following particulars, and it may be in ſome other.</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Heb.</hi> 10.19, 20.</note> It preſuppoſeth <hi>reconciliation</hi> with God through the mediation of Chriſt, ap<g ref="char:EOLhyphen"/>prehended by faith, anſwered in repen<g ref="char:EOLhyphen"/>tance, purſued in obedience, and maintai<g ref="char:EOLhyphen"/>ned in walking before him.</p>
+            <p n="2">2. It immediately followes <hi>union</hi> with Chriſt,
+<note place="margin">
+                  <hi>Eph.</hi> 2.18.</note> relation to God, and inhabitation of the Spirit.</p>
+            <p n="3">3. It ſuppoſes the <hi>qualification</hi> of the perſon in conformity to God,
+<note place="margin">
+                  <hi>Pſ.</hi> 15.</note> and aſſimi<g ref="char:EOLhyphen"/>lations to him.</p>
+            <p n="4">4.
+<note place="margin">
+                  <hi>Joh.</hi> 14.21.</note> It is maintained, <hi>on Gods part,</hi> by
+<pb n="37" facs="tcp:62699:21"/>
+               <hi>teachings</hi> of the Spirit, <hi>influences</hi> of grace,
+<note place="margin">
+                  <hi>Rev.</hi> 3.20. <hi>Cant.</hi> 5.1. <hi>Pſ.</hi> 25.14.</note> 
+               <hi>teſtimonies</hi> of Love, and <hi>earneſts</hi> of his glory. On <hi>the Christians part,</hi> by what here fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p n="1">1. <hi>Addreſſes</hi> to God in holy duties,
+<note place="margin">
+                  <hi>Pſ.</hi> 73.28. <hi>Pſ.</hi> 100.</note> ſo<g ref="char:EOLhyphen"/>lemn or occaſionall, through Chriſt, and by the Spirit.</p>
+            <p n="2">2. <hi>Apprehenſions</hi> of God, his glory,
+<note place="margin">
+                  <hi>Joh.</hi> 17.3.</note> his grace, love, and goodneſſe revealed in his word through Chriſt, and applied by the Spirit.</p>
+            <p n="3">3. <hi>Adorations</hi> of God, high thoughts of him, with humble worſhippings, praiſes,
+<note place="margin">
+                  <hi>Pſ.</hi> 100.4.</note> and acknowledgments.</p>
+            <p n="4">4. <hi>Affections</hi> to God in Chriſt,
+<note place="margin">
+                  <hi>Pſ.</hi> 42.1. <hi>Pſ.</hi> 63.1.</note> running out in love, deſire, delight, and joy.</p>
+            <p n="5">5.
+<note place="margin">
+                  <hi>Pſ.</hi> 36.7. <hi>Cant.</hi> 8.5.</note> 
+               <hi>Affiance</hi> in God through Chriſt in his grace, goodneſſe, truth, faithfulneſſe, power, and providence.</p>
+            <p n="6">6, <hi>Activity</hi> of grace in holy duties,
+<note place="margin">
+                  <hi>Cant.</hi> 4.16.</note> proper, in times ſeaſonable, in manner ſpi<g ref="char:EOLhyphen"/>rituall, in meaſure fruitfull.</p>
+            <p n="7">7.
+<note place="margin">
+                  <hi>Pſ.</hi> 16.8. <hi>Cant.</hi> 2.7.</note> 
+               <hi>Actuall intentions</hi> of God and of his glory, and of being well pleaſing to him, in the frame of our hearts, in the courſe of our lives, and eſpecially in our holy duties.</p>
+            <p n="8">8. <hi>Applications</hi> of his love,
+<note place="margin">
+                  <hi>Cant.</hi> 1.2. <hi>&amp;c. Rom.</hi> 5.5, 6 <hi>&amp;c.</hi>
+               </note> upon the diſ<g ref="char:EOLhyphen"/>coveries of it in his word; the ſhedding of it abroad in our hearts by his Spirit, the e<g ref="char:EOLhyphen"/>vidence
+<pb n="38" facs="tcp:62699:22"/>of it in his graces, and the experi<g ref="char:EOLhyphen"/>ence of it in his mercies.</p>
+            <p n="9">9. <hi>Acquainting</hi> him with our neceſſi<g ref="char:EOLhyphen"/>ties,
+<note place="margin">
+                  <hi>Phil.</hi> 4.6. <hi>Cant.</hi> 2.14.</note> deſires, caſes, and conditions from day to day: provided it be <hi>humbly, heartily, believingly,</hi> it may be <hi>freely,</hi> and with holy <hi>familiarity,</hi> as a friend with his friend, a child with his father, and the ſpouſe with her husband: and this whatever be our di<g ref="char:EOLhyphen"/>ſtreſſes, and dangers, troubles, and ſorrows, wrongs and injuries wants and weakneſſes, temptations and infirmities.</p>
+            <p n="10">10. <hi>Attendance</hi> to the methods of his providence,
+<note place="margin">
+                  <hi>Job. Pſ.</hi> 8. <hi>Cant.</hi> 5.4.</note> and the motions of his ſpirit; with the obſervation of his works, and the opening of our hearts unto his word, heark<g ref="char:EOLhyphen"/>ning to his whiſpers, ſenſible apprehenſions of his approaches to your ſoules, not ſuffe<g ref="char:EOLhyphen"/>ring our ſelves to be unmindfull of him, eſtranged from him.</p>
+            <p n="11">11. <hi>Attributing</hi> all our mercies, and re<g ref="char:EOLhyphen"/>freſhments,
+<note place="margin">
+                  <hi>Eph.</hi> 3. <hi>ult.</hi>
+               </note> ſpirituall and temporall, with the hopes of eternall, to his free grace and mercy in Jeſus Chriſt: giving him the glory of all that's done before us, or upon us.</p>
+            <p n="12">12. <hi>Acquieſcence</hi> in him as our God in Chriſt,
+<note place="margin">
+                  <hi>Pſ.</hi> 116.7.</note> our God in Covenant, our All in All: reſting our ſelves in our relation to him,
+<note place="margin">
+                  <hi>Pſ.</hi> 73.25.</note> enjoyment of him: whatever elſe we want,
+<pb n="39" facs="tcp:62699:22"/>and whatever our condition be,
+<note place="margin">
+                  <hi>Pſ.</hi> 17. <hi>ult. Pſ.</hi> 16. <hi>ult.</hi>
+               </note> 'till we come to glory, to ſee him as he is, to be perfectly like unto him, and for ever with him. Read Mr. Strong <hi>of Communion with God,</hi> and Dr. Owen <hi>of Communion with God.</hi> Brinſly.</p>
+         </div>
+         <div n="6" type="section">
+            <head>SECT. VI. <hi>Of Aſſurance.</hi>
+            </head>
+            <p>THat you may not want any needfull directions for the hightning of your Comfort, peace of conſcience, and joy in the holy Ghoſt, excuſe the brevity, and take theſe notes of <hi>Aſſurance.</hi>
+            </p>
+            <p n="1">1. It is the ordinary, as the deſireable priviledge of holy perſons, mortifying cor<g ref="char:EOLhyphen"/>ruptions, exerciſing graces,
+<note place="margin">1 <hi>Pet.</hi> 1.8. <hi>Pſ.</hi> 36.7. <hi>Rom.</hi> 5.5.</note> walking daily before the Lord, and in communion with him, to have comfortable aſſurance of the love of God, intereſt in Chriſt,
+<note place="margin">1 <hi>Pet:</hi> 1.3, 4, 5, 6.</note> pardon of ſins, ſtate in grace, title to the promiſes, and their inheritance in the Kingdome.</p>
+            <p n="2">2. If it be otherwiſe with any, 'tis pro<g ref="char:EOLhyphen"/>bable,
+<note place="margin">
+                  <hi>Pſ.</hi> 51. <hi>Cant.</hi> 5.2.</note> there are ſome unmortified corrup<g ref="char:EOLhyphen"/>tions, neglected graces, diſordered conver<g ref="char:EOLhyphen"/>ſations, eſtrangements from God, or ſome<g ref="char:EOLhyphen"/>thing <hi>extraordinary</hi> in the way of God's diſ<g ref="char:EOLhyphen"/>penſation,
+<note place="margin">
+                  <hi>Iſ.</hi> 50.10.</note>
+               <pb n="40" facs="tcp:62699:23"/>the prevalency of temptation, diſtemper in conſtitution, which are to be enquired after. However it be,</p>
+            <p n="1">1.
+<note place="margin">2 <hi>Pet.</hi> 1.5.</note> Practiſe the methods in the former Directions with care and diligence, in truth and in ſincerity.</p>
+            <p n="2">2.
+<note place="margin">
+                  <hi>Pſ.</hi> 51. <hi>Rom.</hi> 16.16. <hi>Eph.</hi> 1.17, 18.</note> 
+               <hi>Beg the ſpirit</hi> of Adoption to enlighten our underſtandings, ſhine upon our graces, and make the application.</p>
+            <p n="3">3. <hi>Reflect</hi> upon your ſelves, your ſtate, and your exerciſe,
+<note place="margin">
+                  <hi>Rom.</hi> 16.16. 1 <hi>John</hi> 3.19, 20. <hi>Gal.</hi> 2.20.</note> and comparing them with the word in the light of the ſpirit, your conſciences bearing witneſſe in the holy Ghoſt of ſincerity upon the tryall, accor<g ref="char:EOLhyphen"/>dingly paſſe the ſentence for your Aſſu<g ref="char:EOLhyphen"/>rance, and make the application, caſt off your doubts, give glory to grace, and make progreſſe to glory.</p>
+            <p n="4">4. Where things are doubtfull upon <hi>en<g ref="char:EOLhyphen"/>quiry,</hi>
+               <note place="margin">
+                  <hi>Hab.</hi> 2. <hi>Iſ.</hi> 50.10. <hi>Cant.</hi> 5.</note> the beſt way is to put it out of doubt by <hi>practice,</hi> in the actings of the graces, and performance of the duties; waiting God's time, and keeping his way, and truſting in his mercy through Chriſt Jeſus, till he be pleaſed to anſwer your doubts, to rebuke your temptations, to give his ſpirit, and to cauſe the light of his countenance to ſhine upon you.</p>
+            <p n="5">5. <hi>Learne</hi> moreover not to queſtion the
+<pb n="41" facs="tcp:62699:23"/>goodneſſe of the father, the merits of the ſon, the power of the ſpirit,
+<note place="margin">1 <hi>Joh.</hi> 5.11 12.</note> the truth of the promiſes, the probability of your inte<g ref="char:EOLhyphen"/>reſt (if any way likely) much leſſe the hopes of arriving ſafe to glory, being found in the ſincere diſcharge of duty,
+<note place="margin">
+                  <hi>Cant.</hi> 8.7.</note> leaving the wilderneſſe of the world and ſin in our affection and converſation, and leaning on our Beloved.</p>
+            <p n="6">6. Expect not conſiderable meaſures of comfort, but in proportions of Duty,
+<note place="margin">
+                  <hi>Pſ.</hi> 84.7.</note> and ſome progreſſe made in practicall Chriſtia<g ref="char:EOLhyphen"/>nity.</p>
+            <p n="7">7.
+<note place="margin">2 <hi>Cor.</hi> 1. <hi>beg.</hi> 1 <hi>Pet.</hi> 1.5, 6, 7, 8.</note> There are ſpeciall ſeaſons for ſpeciall Aſſurances: as entrance upon, of diſcharge of ſome great undertakings in the life of Religion, or ſome great tryall and exerciſe (ſuppoſe) of ſuffering: and the beſt is al<g ref="char:EOLhyphen"/>waies reſerved for the needfull and proper ſeaſon.</p>
+            <p n="8">8. Having gotten it, keep it, and that with humility, thankfulneſſe, and diligence,
+<note place="margin">
+                  <hi>Jude</hi> 20, 21. <hi>Cant.</hi> 5.2.</note> with progreſſe in the way where in you got it. Take heed of abuſing it by ſecurity, wantoneſſe, or worldlineſſe.</p>
+            <p n="9">9. <hi>Look</hi> and long for heaven,
+<note place="margin">
+                  <hi>Rev.</hi> 22.20.</note> there all is perfected. <hi>Moſt Sermons have ſomewhat to<g ref="char:EOLhyphen"/>wards this in their <g ref="char:V">Ʋ</g>ſes of Examination and Conſolation: and ſome more eſpecially on this
+<pb n="42" facs="tcp:62699:24"/>ſubject; ſearch out your Notes and ſtudy them. Beſides theſe there are diverſe Treatiſes: a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Baxter's <hi>Directions.</hi> Bolton's <hi>Instructions,</hi> Sibbes his <hi>Soules Conflict.</hi> Symonds <hi>deſert<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Soules caſe and cure.</hi> Roberts <hi>Evidences.</hi> Ambroſe <hi>middle things.</hi> Ford <hi>of Adoption. Cripplegate Exerciſe.</hi>
+            </p>
+         </div>
+         <div n="7" type="section">
+            <head>SECT. VII. <hi>The Life of Faith.</hi>
+            </head>
+            <p n="1">1. IN the <hi>life of Faith</hi> are conſiderable 1. the <hi>purpoſes:</hi> 2. the <hi>object:</hi> and 3. the <hi>actings</hi> of Faith.</p>
+            <p n="1">1. The <hi>purpoſes</hi> of it are uſually for ju<g ref="char:EOLhyphen"/>ſtification, mortification, ſanctification, conſolation, and ſalvation.</p>
+            <p n="2">2. The <hi>Objects</hi> are God's love, truth, power &amp;c. Chriſt's perſon, relations, offices, life, death, reſurrection, and aſcen<g ref="char:EOLhyphen"/>ſion &amp;c.</p>
+            <p n="3">3. The <hi>Acts</hi> of faith are, apprehenſion of the object, aſſent to the truth, conſent to the gift, application of the whole, with affyance and <hi>working</hi> in love and obedience, as at firſt in cloſing with Chriſt.</p>
+            <p n="2">2.
+<note place="margin">
+                  <hi>Rom.</hi> 4.20.</note> The life of faith is highly <hi>acceptable</hi> with God, <hi>comfortable,</hi> honourable, and neceſſary to the Chriſtian.</p>
+            <p n="1">
+               <pb n="43" facs="tcp:62699:24"/> 1.
+<note place="margin">
+                  <hi>Gal.</hi> 2.10. <hi>Phil.</hi> 3.9. <hi>Act.</hi> 3.19.</note> To live the <hi>life of faith</hi> for <hi>juſtifica<g ref="char:EOLhyphen"/>tion.</hi> 1. Renew thy <hi>repentance</hi> daily, for commiſſions of ſin, and omiſſions of duty: in ſorrow, confeſſion, and ſupplication to God in Chriſt. 2.
+<note place="margin">
+                  <hi>Rom.</hi> 3.25.26. <hi>Rom.</hi> 5.12. <hi>&amp;c.</hi>
+               </note> Let <hi>Faith</hi> firſt <hi>appre<g ref="char:EOLhyphen"/>hend</hi> the grace of God; and look on Chriſt as thy <hi>Second Adam, Head, Surety,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>crifice,</hi> meditate his perfect obedience, and his death; therein,
+<note place="margin">
+                  <hi>Gal.</hi> 3.13.</note> the pacification of wrath, the ſatisfaction of Juſtice, the re<g ref="char:EOLhyphen"/>movall of the curſe,
+<note place="margin">
+                  <hi>Dan.</hi> 9.24. <hi>Heb.</hi> 10.16. <hi>Heb.</hi> 9.24. 1 <hi>Joh.</hi> 2.2. <hi>Luk:</hi> 22. <hi>Rom.</hi> 3.25. <hi>Gal.</hi> 2.20. <hi>Joh.</hi> 3.3.</note> ſin taken away in its guilt, everlaſting righteouſneſſe brought in, and a Covenant of Grace eſtabliſhed: ſee this pleaded in his interceſſion, and tendered in the Goſpell, ſealed in the Sa<g ref="char:EOLhyphen"/>craments, and to be applied by faith. 2. <hi>Apply</hi> it. 3. <hi>Aſsent</hi> unto it. 4. <hi>Rest</hi> upon it. 5. Speak <hi>peace</hi> to thy conſcience. 6. If the ſence of it make thee <hi>thankfull,</hi> cheerfull, and fruitfull to God and Chriſt.
+<note place="margin">
+                  <hi>Rom.</hi> 5.1. <hi>Heb</hi> 10.2. <hi>Pſal.</hi> 103.1, 2. 2 <hi>Cor.</hi> 5.14. <hi>&amp;c. Ram.</hi> 8.34. <hi>&amp;c.</hi> 1 <hi>Cor.</hi> 15.55, 56. <hi>Acts</hi> 3.19. <hi>Rom.</hi> 7.13.14.</note> 7. Reject the <hi>temptations</hi> of Sathan to un<g ref="char:EOLhyphen"/>beliefe, ſilence the accuſations and condem<g ref="char:EOLhyphen"/>nations of thy conſcience, lay aſide the ſla<g ref="char:EOLhyphen"/>viſn feares of the wrath of God, the ter<g ref="char:EOLhyphen"/>rors of death and judgment. And 8. Long for the publick and ſolemne declaration of all in the laſt day.</p>
+            <p n="2">2. Live the life of faith for <hi>Mertification</hi> of ſin. 1. Set home upon thine heart the
+<pb n="44" facs="tcp:62699:25"/>ſinfullneſſe of ſin,
+<note place="margin">
+                  <hi>Rom.</hi> 7.13, 14.</note> and the neceſſity of its deſtruction. Be willing to it, and reſolved for it. 2. Be <hi>ſenſible</hi> of thine own weak<g ref="char:EOLhyphen"/>neſſe and inability to performe it.
+<note place="margin">
+                  <hi>Rom.</hi> 7.24. <hi>Rom.</hi> 7.25. <hi>Rom.</hi> 6. <hi>beg.</hi>
+               </note> 3. Act <hi>faith</hi> on Chriſt for it. 1. Let faith <hi>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hold</hi> Chriſt Jeſus upon the <hi>Croſs,</hi> procuring and purchaſing thy <hi>freedome,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 7. <hi>Ezek.</hi> 36.26.</note> from the do<g ref="char:EOLhyphen"/>minion, power, and preſence of ſin, in Gods time, and Gods way. 2. Let faith ſee the <hi>promiſes</hi> of Mortifying and cleanſing grace in the blood of Chriſt eſtabliſhed.
+<note place="margin">
+                  <hi>Rom.</hi> 6.9, 10. <hi>Pſal.</hi> 51.7. <hi>Rom.</hi> 6.12. <hi>Rom.</hi> 8.34. <hi>Gal.</hi> 5.25.26.</note> 3. Let faith <hi>apply</hi> them. 4. Let <hi>Prayer</hi> ſue out Mortifying influences from the death of Chriſt. 5. Let faith ſet thee in the <hi>way,</hi> wherein thoſe virtues are to be experien<g ref="char:EOLhyphen"/>ced, as before in the Section of <hi>Mortification.</hi> 6 Let faith <hi>conſider,</hi> the <hi>guilt</hi> removed, the <hi>dominion</hi> broken,
+<note place="margin">
+                  <hi>Heb.</hi> 12.14 2 <hi>Cor.</hi> 3.5.</note> the <hi>power</hi> reſtrained, the <hi>rest</hi> not imputed where not allowed, ſtrength againſt ſin vouchſafed, and in concluſion the deſtruction of it.</p>
+            <p n="3">3.
+<note place="margin">
+                  <hi>Gal.</hi> 3.13, 14.</note> Let faith for <hi>perfect ſanctification.</hi> 1. Affect thine heart with the conſidera<g ref="char:EOLhyphen"/>tion of the neceſſity,
+<note place="margin">
+                  <hi>Eph.</hi> 2.5.</note> excellency, and beauty of it.
+<note place="margin">
+                  <hi>Rom.</hi> 6.4.5</note> 2. With the ſence of thine own in ſufficiency, for the acting, continuing, ever<g ref="char:EOLhyphen"/>eaſing of it.
+<note place="margin">
+                  <hi>Eph.</hi> 4.7.8. <hi>Eph.</hi> 1.22.23.</note> 3. Act <hi>faith on Chriſt.</hi> 1. Let faith <hi>look</hi> upon Chriſt in his word preſcri<g ref="char:EOLhyphen"/>bing in his life directions, in his death pro<g ref="char:EOLhyphen"/>cuting,
+<pb n="45" facs="tcp:62699:25"/>whatever might be needfull for it,
+<note place="margin">
+                  <hi>Gal.</hi> 3.13, 14. <hi>Eph.</hi> 2.5. <hi>Rom.</hi> 6.4, 5 <hi>Eph.</hi> 4.7, 8 <hi>Eph.</hi> 1.22.23. 1 <hi>Cor.</hi> 1.30</note> in his reſurrection ariſing as your head, to quicken your ſoules to newneſſe of life; in Heaven poſſeſſing all gifts and graces, and having the fulneſſe of the ſpirit, with power to diſpence it. 2. <hi>Apply</hi> it. 3. <hi>Aſ<g ref="char:EOLhyphen"/>ſent</hi> unto it. 4. Make it your <hi>choice.</hi> 5. <hi>Sue</hi> it out by Prayer. 6. <hi>Look</hi> up to him by faith, for virtue. 7. In the expectation of his influences, apply your ſelves unto the exerciſing of your graces.</p>
+            <p n="4">4. Live the life of faith in <hi>Temptations</hi> 1. Let faith <hi>look</hi> upon Chriſt as having been tempted, though without ſin, and knowing how to compaſſionate. 2.
+<note place="margin">
+                  <hi>Heb.</hi> 2.18.</note> Look on Chriſt in his <hi>death,</hi> taking away the foundation of your temptations,
+<note place="margin">
+                  <hi>Heb.</hi> 2.14.</note> and breaking the ſer<g ref="char:EOLhyphen"/>pents head, purchaſing your redemption from his dominion, though not diſturbance, eſtabliſhing the promiſes for your reliefe:
+<note place="margin">
+                  <hi>Gen.</hi> 3.15.</note> In Heaven look on him, as interceding for you, and exalted in power to help you.
+<note place="margin">
+                  <hi>Phil.</hi> 2.9.</note> 2. <hi>Apply</hi> it. 3. <hi>Aſſent</hi> to it. 4.
+<note place="margin">2 <hi>Cor.</hi> 12.8</note> 
+               <hi>Reſt</hi> upon it. 5.
+<note place="margin">
+                  <hi>Eph.</hi> 6.12, 13, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Sue</hi> out the virtues of Chriſt by Prayer. 6. In his ſtrength <hi>reſiſt</hi> your temptation, in the way of his direction, and putting on the ſpirituall armour, uſing it in its place and ſeaſon. 7. So doing, <hi>doubt</hi> nothing of your acceptance, aſſiſtance,
+<pb n="46" facs="tcp:62699:26"/>deliverance,
+<note place="margin">
+                  <hi>Rom.</hi> 16.20.</note> reward, and triumphs.</p>
+            <p n="5">5. For <hi>Worldly troubles</hi> do the like. 1.
+<note place="margin">
+                  <hi>John</hi> 16.33. 1 <hi>Joh.</hi> 5.4. <hi>Gal.</hi> 1.4.</note> Let faith ſee Chriſt in his <hi>death</hi> removing the evill, which is the ſting of trouble, as the guilt of ſinne, the curſe of the law, and the wrath of God; procuring the graces and comforts in the promiſes, providence and ſpirit of God:
+<note place="margin">
+                  <hi>Eph.</hi> 1.19, 20, 21, 22.</note> in his reſurrection and aſ<g ref="char:EOLhyphen"/>cenſion, look upon him above all trouble, as your head, aſſuring you of conformity to him in his exaltation hereafter,
+<note place="margin">
+                  <hi>Hoſ.</hi> 6. <hi>beg.</hi>
+               </note> as you have with him in his humiliation here: To this ad the comforts from the ſame,
+<note place="margin">1 <hi>Cor.</hi> 15.55. <hi>Heb.</hi> 2.14. <hi>Iſ.</hi> 26.19. <hi>Zach.</hi> 1.12. <hi>Phil.</hi> 2.9. <hi>Iſ.</hi> 54.5. 1 <hi>Pet.</hi> 1.5.</note> in Chriſt, a<g ref="char:EOLhyphen"/>gainſt <hi>death</hi> and the terrors of it—<hi>mutatis mutandis:</hi> the like for the <hi>Church</hi> of God in her diſtreſſes. Follow it to his <hi>interceſſion,</hi> and his <hi>government</hi> of the world by his power and providence, having a <hi>care</hi> of his ſpouſe in all troubles, intending only <hi>proba<g ref="char:EOLhyphen"/>tion,</hi>
+               <note place="margin">
+                  <hi>Pſ</hi> 73.23. <hi>Pſ.</hi> 28. <hi>ult. Gal.</hi> 6.14</note> &amp;c. at moſt <hi>correction,</hi> not at all de<g ref="char:EOLhyphen"/>ſtruction. 2. Let faith <hi>Apply</hi> this and the like. 3. <hi>Aſſent.</hi> 4. <hi>Rely.</hi> 5. Performe the duties of ſuch conditions. 6. <hi>Confidently</hi> from Chriſt expect acceptance, aſſiſtance, and deliverance.</p>
+            <p n="6">6. Live the life of faith for <hi>eternall life.</hi> 1.
+<note place="margin">
+                  <hi>G. l.</hi> 3.13.</note> 
+               <hi>Look</hi> on Chriſt in his ſtate of <hi>Humilia<g ref="char:EOLhyphen"/>tion</hi> as removing the hindrances, ſinne, law, curſe and wrath, death and Hell. 1. Pur<g ref="char:EOLhyphen"/>chaſing
+<pb n="47" facs="tcp:62699:26"/>the title and all advantages;
+<note place="margin">
+                  <hi>Heb.</hi> 9.15.</note> eſta<g ref="char:EOLhyphen"/>bliſhing the covenants and all the convey<g ref="char:EOLhyphen"/>ances: in his exaltation advancing to<g ref="char:EOLhyphen"/>wards it, entering into it,
+<note place="margin">
+                  <hi>Joh.</hi> 14.1. <hi>Heb.</hi> 6.18. <hi>Col.</hi> 3.1.</note> and taking poſſe<g ref="char:EOLhyphen"/>ſſion of it, not only for himſelfe but for all believers, as their forerunner; keeping it for them, appointing their manſions, ſecu<g ref="char:EOLhyphen"/>ring their title,
+<note place="margin">
+                  <hi>Gal.</hi> 4.4.</note> and taking order for their Adoption, qualification, preſervation,
+<note place="margin">
+                  <hi>Joh.</hi> 17.24 <hi>Rev.</hi> 22.20. <hi>Heb.</hi> 11.1. <hi>Heb.</hi> 10.34</note> com<g ref="char:EOLhyphen"/>fort here, and at laſt their aſſumption, that according to his deſire, Prayer, and promiſe, they may be for ever with him, <hi>&amp;c.</hi> 2. Let faith <hi>apply</hi> it. 3. <hi>Aſſent</hi> unto it. 4. <hi>Rely</hi> upon it, And 5. <hi>Carry</hi> out to duty and waies of Holineſſe. And 6.
+<note place="margin">1 <hi>Pet.</hi> 1.3, 4, 5, 6, 7, 8</note> 
+               <hi>Reſol<g ref="char:EOLhyphen"/>vedly</hi> paſſe through your trials, difficul<g ref="char:EOLhyphen"/>ties, dangers, and deaths, according to the will of God: Committing your ſoules unto him, nothing doubting, but in the end, you ſhall receive the end of the faith,
+<note place="margin">2 <hi>Cor.</hi> 4. <hi>ult.</hi> 2 <hi>Cor.</hi> 5.1. <hi>&amp;c.</hi>
+               </note> the ſalvation of your ſoules. 7. Live <hi>much upon</hi> it and the fore-thoughts of it, it is <hi>Glorious,</hi> it is <hi>yours,</hi> it is <hi>certaine,</hi> it is <hi>ſafe,</hi> it will be <hi>Eternall.</hi> Chriſt hath pro<g ref="char:EOLhyphen"/>cured it, Chriſt doth poſſeſſe it,
+<note place="margin">2 <hi>Cor.</hi> 5.5. <hi>Eph.</hi> 1.14. <hi>Phil.</hi> 1.23.</note> the pro<g ref="char:EOLhyphen"/>miſes aſſure it, the ſacrament ſeale it, the ſpirit is the earneſt, your graces are the evidences for it, and all your dangers and deaths do but prepare you for it, or enter you into it.</p>
+            <p n="7">
+               <pb n="48" facs="tcp:62699:27"/> 7. Live the life of faith on Chriſt Je<g ref="char:EOLhyphen"/>ſus <hi>for faith</hi> it ſelfe:
+<note place="margin">
+                  <hi>Heb.</hi> 12.2. 2 <hi>Theſ.</hi> 1.14.</note> take his <hi>directions,</hi> fol<g ref="char:EOLhyphen"/>low his <hi>example,</hi> bottom on his his <hi>under<g ref="char:EOLhyphen"/>taking;</hi> depend upon his <hi>fulneſſe,</hi> yeild to his <hi>methods,</hi> and expect his <hi>influences.</hi> This life of faith is <hi>neceſſary, comfortable, ſure, practicable, influentiall, honourable.</hi> Study it, uſe it; and for further directions, I commend you, beſides your <hi>own meditati<g ref="char:EOLhyphen"/>ons</hi> and <hi>ſermon notes</hi> on <hi>Gal.</hi> 2.20. or other Scriptures, to the reading of theſe Books. Balls <hi>Life of faith.</hi> Lawrence <hi>life of faith.</hi> Cuiverwell <hi>Life of faith.</hi> Ward <hi>life of faith. Ambroſe</hi> his <hi>Middle things</hi> about <hi>the life of faith.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 9.10.</note> More particularly acquaint your ſelves with the <hi>Attributes</hi> of God, the <hi>offices</hi> of Chriſt, the <hi>relations</hi> wherein he ſtandeth, his ſeverall <hi>ſtates</hi> of <hi>Humiliation</hi> and <hi>ex<g ref="char:EOLhyphen"/>altation,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 2.3.</note> with the <hi>intentions</hi> of all and their <hi>improvements:</hi> for this, I referre you to <hi>Sermons, on Gods Attributes and providence,</hi> and to good Books, as Preſton <hi>Of Gods Attributes,</hi> and particularly his <hi>All-ſuffici<g ref="char:EOLhyphen"/>ency.</hi> Stocke, <hi>Of Gods Attributes.</hi> Wil<g ref="char:EOLhyphen"/>kins <hi>on Providence.</hi> Gearing <hi>of Providence.</hi> Obad. Sedgwick <hi>on</hi> Pſal. 23. <hi>and Providence.</hi> Dike <hi>on Gods Name,</hi> &amp;c. and for that of Chriſt to <hi>T. Goodwins</hi> Works. Eſpecially <hi>Chriſt exalted as the object of Faith.</hi> Study
+<pb n="49" facs="tcp:62699:27"/>it throughly with the peece of <hi>Christs heart in heaven,</hi> &amp;c. Ambroſe <hi>his looking unto Jeſus.</hi> Robinſons <hi>Similitudes,</hi> your Sermon Notes on Chriſt, &amp;c. the Lectures, on the four Evangeliſts in harmony on Chriſt.
+<note place="margin">2 <hi>Sam.</hi> 23.5.</note> Study likewiſe in order to this life of faith the <hi>Covenant of Grace,</hi> the na<g ref="char:EOLhyphen"/>ture of it, the contents of it, the foundation of it in the blood of Chriſt,
+<note place="margin">
+                  <hi>Heb.</hi> 9.15, 16, 17.</note> the confirmation by the oath of God, and by ſacraments; the ſeverall diſpenſations of it,
+<note place="margin">
+                  <hi>Heb.</hi> 1.1.</note> gradually revealing Chriſt and Grace. Firſt to <hi>Adam</hi> Gen. 3.15. then to <hi>Noah</hi> Gen. 6. then to <hi>Abraham</hi> ſeverall times, <hi>Gen.</hi> 12. and 15. and 17. &amp;c. then to the <hi>Patriarches,</hi> to <hi>Moſes,</hi> Exod. 3. to <hi>Iſrael</hi> on the mount <hi>Exod.</hi> 20. and 24. to <hi>David,</hi> 2 <hi>Sam.</hi> 23.5. and in many of the Pſalmes, <hi>Pſ</hi> 89. &amp;c. <hi>Pſal.</hi> 2. <hi>Pſ.</hi> 110. &amp;c. after that enlarged in choice promiſes in the <hi>Prophets.</hi> For Iſrael in captivity, <hi>Jer.</hi> 31. <hi>Jer.</hi> 32. <hi>Ezek.</hi> 11. and <hi>Eze.</hi> 36, &amp;c. So in <hi>Zach.</hi> 9. &amp;c. and at laſt the New Teſtament by <hi>Chriſt, Heb.</hi> 8. <hi>Heb.</hi> 10. read your Sermon Notes upon this ſubject and thoſe Scriptures, many of them at <hi>M. Arches</hi> and other books, as Ball <hi>of the Covenant of Grace,</hi> Bulkly, Rutherford, <hi>Morning exerciſe,</hi> Giles: Roberts, Cotton, and others. Leigh, <hi>promiſes.</hi>
+            </p>
+         </div>
+         <div n="8" type="section">
+            <pb n="50" facs="tcp:62699:28"/>
+            <head>SECT. VIII: <hi>Of Temptations:</hi>
+            </head>
+            <p>THe beſt of Gods Saints and Servants may be ſubject to <hi>Temptations,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 3.15.</note> and thoſe of all ſorts, not only to doubtings ſinnings,
+<note place="margin">
+                  <hi>Luke</hi> 22.30.31.</note> and ſuch ſometimes the moſt abo<g ref="char:EOLhyphen"/>minable and diabolicall. For <hi>Sathan</hi> is their enemy; becauſe they belong to God, are gotten out from his Kingdome, and are irreconcileable enemies to his intereſt; Sathan is an <hi>Old, Malicious, Subtle, Power<g ref="char:EOLhyphen"/>full,
+<note place="margin">1 <hi>Pet.</hi> 5.8.</note> Cruell,</hi> and <hi>deadly</hi> enemy to them, their graces, their comforts, and their perſons: and <hi>God ſuffers</hi> it ſo to be, for his own <hi>glory,</hi> and his peoples <hi>good;</hi> in the exerciſe and evidence of their graces, in the ſup<g ref="char:EOLhyphen"/>ports of their ſoules, and experience of his favour; for their conformity to Chriſt, and in order to the reward, when they overcome. <hi>Their comfort in,</hi> that their Temptations without their conſent are not their ſinnes,
+<note place="margin">
+                  <hi>Heb.</hi> 2.18. 2 <hi>Cor.</hi> 12.5. <hi>Rev.</hi> 2.10.</note> Chriſt himſelfe hath been tempted; God and Chriſt compaſſionate them, God is with them to help them; their temptations are limited; Sathans
+<pb n="51" facs="tcp:62699:28"/>head-plot is broken;
+<note place="margin">
+                  <hi>Heb.</hi> 2.14.</note> their ſoules ſhall be<g ref="char:EOLhyphen"/>ſaved, and their conqueſts rewarded. <hi>Their duty is</hi> to be acquainted with the nature of temptations,
+<note place="margin">2 <hi>Cor.</hi> 2.11 <hi>Eph.</hi> 6.12. <hi>&amp;c.</hi>
+               </note> to watch and pray againſt them, to reſiſt them, to put on and uſe their ſpirituall armour, to live upon Chriſt by Faith, and to look and long for their deli<g ref="char:EOLhyphen"/>verance. <hi>Remember</hi> Math. 4. <hi>and diſcour<g ref="char:EOLhyphen"/>ſes on Chriſts Temptation.</hi> Biſhop Hall: Capell <hi>of Temptations:</hi> Downams <hi>Warfare:</hi> Gouge, Robinſon, <hi>and</hi> Gurnals <hi>Spirituall armour:</hi> Dr Owen <hi>of Temptation, and</hi> Bridges, Brooks, <hi>&amp;c.</hi> Ball <hi>of Faith,</hi> &amp;c.</p>
+         </div>
+         <div n="9" type="section">
+            <head>SECT. IX. <hi>Of Divine Deſertions.</hi>
+            </head>
+            <p>GOds people may be ſometimes for a time and in part <hi>deſerted,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 22.1. <hi>Iſ.</hi> 63.17. 2 <hi>Sam.</hi> 11. <hi>Pſ.</hi> 51.</note> as to <hi>illu<g ref="char:EOLhyphen"/>minations, influences,</hi> and <hi>comforts:</hi> they may not ſee their way, may fall into ſin, looſe much grace, want comfort,
+<note place="margin">
+                  <hi>Pſ.</hi> 88.6.</note> be ſorely tempted,
+<note place="margin">
+                  <hi>Pſ.</hi> 8.9.</note> and feel ſenſible impreſſions of Gods fatherly diſpleaſure. This is ſome<g ref="char:EOLhyphen"/>times for the <hi>puniſhment</hi> of their ſins,
+<note place="margin">
+                  <hi>Pſ.</hi> 7.7. <hi>Cant.</hi> 5. <hi>Cant.</hi> 3.</note> and ſometimes for the <hi>triall</hi> of their gra<g ref="char:EOLhyphen"/>ces; God hath alſo therein a <hi>deſigne</hi> for
+<pb n="52" facs="tcp:62699:29"/>his own <hi>glory</hi> and their <hi>good;</hi> in preventing and mortifying of ſin, provoking to duty, enriching their experience, and for the diſcovery of the freedome of his grace, the worth of his love, and the neceſſity of his preſence,
+<note place="margin">
+                  <hi>Pſal.</hi> 22.1. <hi>Jer.</hi> 31. <hi>Heb.</hi> 8. <hi>John.</hi> 10.</note> 
+               <hi>&amp;c. Their comfort is,</hi> they are not alone, they are never totally nor finally rejected, God is ſtill their God in covenant, and Chriſt is their head in union; and the Spirit their ſanctifier, ſupporter, if not actually their comforter in Com<g ref="char:EOLhyphen"/>munion;
+<note place="margin">
+                  <hi>Cant.</hi> 5. <hi>beginning.</hi>
+               </note> Chriſt leaves ſweetneſſe behind him, and though abſent yet drawes them towards him, in good time will be found of them, and in Heaven at laſt abide for<g ref="char:EOLhyphen"/>ever with them. <hi>Their duty is</hi> to ſhake off ſecurity,
+<note place="margin">
+                  <hi>Cant.</hi> 5. <hi>throughout.</hi>
+               </note> to enquire into the cauſes, to hear Chriſts voice, to relliſh his ſweetneſſes, to deſire his favour, to follow after him in all good meanes, to ſpeak well of him, to cleave to their Choice, to take Gods way, and to wait Gods time for their comfort and recovery; and when they find him to be more carefull to pleaſe him,
+<note place="margin">
+                  <hi>Cant.</hi> 6.</note> and for ever to beware of wandring from God, parlying with Temptation, Spirituall pride, and ſecurity under Goſpell enjoyment. <hi>Read</hi> Symonds <hi>Deſerted ſoules caſe and Cure.</hi> Sibbes <hi>Soules conflict.</hi> Boltons <hi>Inſtructions:</hi>
+               <pb n="53" facs="tcp:62699:29"/>Rutherfords <hi>Chriſts Dying,</hi> &amp;c. And for <hi>Church-deſertions</hi> in the viſible tokens of Gods preſence: Read Sermons on <hi>Luk</hi> 19.42. <hi>Rev.</hi> 2.4.5. <hi>Rev.</hi> 3.1, 6. <hi>John</hi> 12.35.36. and <hi>Cant.</hi> 5.2 &amp;c. <hi>The Epiſtles in the Re<g ref="char:EOLhyphen"/>velation to the Churches of Aſia:</hi> Brinſleyes <hi>Watch,</hi> Burroughes <hi>on</hi> Hoſea: Cripplegate <hi>Exerciſe.</hi> 26. and apply to them the fore<g ref="char:EOLhyphen"/>going comforts and counſels.</p>
+         </div>
+         <div n="10" type="section">
+            <head>SECT. X. <hi>Of Afflictions, and Trialls.</hi>
+            </head>
+            <p>
+               <hi>AFflictions</hi> and <hi>Troubles,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 16.33</note> are the lot of Gods choſen: for <hi>correction</hi> or <hi>pro<g ref="char:EOLhyphen"/>bation,</hi> or <hi>purification,</hi> or <hi>teſtimony:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.6.</note> or <hi>it may be altogether.</hi> Zach 13.9. &amp;c. 1 Pet. 4.12.17. 1 Pet. 1.5 6. &amp;c.
+<note place="margin">
+                  <hi>Rev.</hi> 2.10. <hi>Pſal.</hi> 42. <hi>Pſal.</hi> 102. <hi>Heb.</hi> 12.6.</note> They may be <hi>ma<g ref="char:EOLhyphen"/>nifold great, laſting,</hi> and ſometimes <hi>inward and outward</hi> both together. <hi>Their Comfort is;</hi> They are from God, their God, their Father, in love though with diſpleaſure: their good is intended together with Gods glory; in purging out ſinne,
+<note place="margin">
+                  <hi>Iſ.</hi> 26.</note> trying and ex<g ref="char:EOLhyphen"/>erciſing their Grace, weaning them from the world, and conforming them to Chriſt:
+<note place="margin">1 <hi>Pet.</hi> 4.13.</note> they have ſpeciall promiſes; God orders
+<pb n="54" facs="tcp:62699:30"/>them,
+<note place="margin">
+                  <hi>Mal.</hi> 3.3. 2 <hi>Cor.</hi> 12.9. <hi>Rom.</hi> 5.5. 1 <hi>Pet:</hi> 5.6.</note> proportions them to ſtrength, gives ſufficient grace, ſheds abroad his love, is preſent with them, will preſerve them, deliver them and bring them home to Glory, 1 <hi>Cor.</hi> 4. latter end, 1 <hi>Pet.</hi> 1.5, 6. <hi>Rom.</hi>
+               <note place="margin">
+                  <hi>Lam.</hi> 3.39. <hi>Pſ.</hi> 51.</note> 8.17. <hi>Phil.</hi> 1.29. 2 <hi>Theſ.</hi> 1.8. &amp;c. <hi>Their duty is (if for ſin)</hi> to enquire the cauſe, to humble themſelves, to juſtify God, to re<g ref="char:EOLhyphen"/>turne to him,
+<note place="margin">1 <hi>Sam.</hi> 15.</note> to ſubmit to his will, and to ſeek his favour, to mind their duty, and to live by faith. And for <hi>trials,</hi> to expect them, prepare for them, and approve themſelves in them, giving glory to God by the ex<g ref="char:EOLhyphen"/>erciſe of grace, and ſubmiſſion to his will. And in <hi>Teſtimonies to Truth;</hi>
+               <note place="margin">1 <hi>Pet.</hi> 4.12. <hi>Cant.</hi> 8. <hi>Matth.</hi> 16.24. <hi>Heb.</hi> 12.2. 1 <hi>Pet.</hi> 4. <hi>ult.</hi> 2 <hi>Cor.</hi> 4. <hi>ult.</hi> 2 <hi>Cor.</hi> 5. <hi>be. Heb.</hi> 10.38 2 <hi>Pet.</hi> 1.1. <hi>&amp;c. Prov.</hi> 142.</note> to ſtrengthen their faith, to inflame their love, and to manifeſt their obedience, to deny them<g ref="char:EOLhyphen"/>ſelves, to take up the Croſſe, to look to Chriſt their example, comfort, and ſtrength, and to referre all to God, committing their ſoules to him in well doing, and to live by faith, <hi>Heb.</hi> 11. <hi>Heb.</hi> 12.1. &amp;c. Read <hi>Caſes, Correction, inſtruction:</hi> Burroughes <hi>Moſes choice and ſelfe deniall and courage.</hi> Hughes <hi>dry rod.</hi> Strongs <hi>Submiſſion to Gods will: Hiſtories of the Church.</hi>
+            </p>
+            <p>
+               <hi>In ſufferings</hi> ſee 1. <hi>That you have a good cauſe, and ſuffer not as evill doers in Church or ſtate</hi> ſee 1 Pet. 2.20. 1 Pet. 4.15,
+<pb n="55" facs="tcp:62699:30"/>2. <hi>A good call, Math.</hi> 10. 3. <hi>Exerciſe a good conſcience, Mark</hi> 5.43. <hi>and</hi> 4. <hi>keep then a good courage, Math.</hi> 10.28.</p>
+         </div>
+         <div n="11" type="section">
+            <head>SECT. XI. <hi>Of Spirituall Retirements.</hi>
+            </head>
+            <p>
+               <hi>REtirements</hi> are ſometimes from <hi>neceſ<g ref="char:EOLhyphen"/>ſity,</hi> through the providence of God,
+<note place="margin">
+                  <hi>Cant.</hi> 2.14. <hi>Iſ.</hi> 26. <hi>ult.</hi>
+               </note> the rage of Sathan, and the malice of the World, <hi>Rev.</hi> 12.6, 14. and ſometime from <hi>choice,</hi> for <hi>privacy</hi> in duty, and <hi>freedome</hi> from diſtraction: <hi>Math.</hi> 6.5, 6. Improve ſuch for <hi>meditation, prayers,</hi> reading, and maintaining communion with God. Leave the world behind you, deſire God's pre<g ref="char:EOLhyphen"/>ſence, and believe his promiſe.</p>
+         </div>
+         <div n="12" type="section">
+            <head>SECT. XII. <hi>Of Meditation.</hi>
+            </head>
+            <p>
+               <hi>MEditation is neceſſary, comfortable,</hi> but <hi>difficult.</hi> Take theſe Directions for it.</p>
+            <p n="1">1. Make conſcience of the duty,
+<note place="margin">
+                  <hi>Pſ.</hi> 1. <hi>Pſ.</hi> 119.</note> not on<g ref="char:EOLhyphen"/>ly <hi>occaſionally,</hi> but <hi>ſolemnly,</hi> and <hi>frequently.</hi> 2. Take the fit and freeſt times for it. 3. Lay
+<pb n="56" facs="tcp:62699:31"/>aſide for that time worldly occaſions and thoughts. 4. Set your ſelf in God's preſence. 5. Begin with Prayer to God for direction, preſence, and bleſſing. 6. Pitch your thoughts on ſome ſuitable and ſeaſonable heart-affecting ſubject: as the <hi>excellency and uſe of the Scriptures: the Attributes of God: the ſtate of Innocency, Sin, ſtate of na<g ref="char:EOLhyphen"/>ture, covenant of grace; Chriſt his Offices, ex<g ref="char:EOLhyphen"/>cellencies</hi> &amp;c. <hi>death, ſatisfaction,</hi> &amp;c. <hi>the love of God, the love of Chriſt, faith, and other particular graces</hi> &amp;c. Meditate often of <hi>the ſinfulneſs of ſin, the vanity of the creature, the love of God, the excellency of Christ, death, the reſurrection, judgment, heaven, and hel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſometimes. When you would meditate on theſe, <hi>underſtand</hi> firſt the doctrine of them, and what is conſiderable in them: for that purpoſe read in ſome doctrinall book on ſuch a ſubject: and after that, by <hi>meditation, conſider and work upon your hearts</hi> to affect them: without this help you will be able to do little on moſt ſubjects. For <hi>ſubjects,</hi> and books on <hi>thoſe ſubjects,</hi> Dr Wilkin's <hi>Eccleſiastes,</hi> may direct you for this uſe, as others for another.</p>
+            <p n="7">7. Obſerve, if you can, a good <hi>method:</hi> for which ſee directions in books. If you cannot follow their methods, follow <hi>Da<g ref="char:EOLhyphen"/>vids</hi>
+               <pb n="57" facs="tcp:62699:31"/>in the <hi>Pſalms.</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 116.5. <hi>Pſ.</hi> 42.</note> Sometimes let it be prayerwiſe, ſometime by way of Soliloquie, or diſcourſe with your ſelves: or take ſome <hi>good bock,</hi> and work what you read upon your heart, 'till you have diſcerned the truth, taſted the ſweetneſſe, and felt the power of it. <hi>The briefe Notes in theſe Se<g ref="char:EOLhyphen"/>ctions are intended for your help on thoſe heads, and are left to your inlargements on purpoſe:</hi> or take the <hi>Scriptures,</hi> and medi<g ref="char:EOLhyphen"/>tate on what you read. 8. Keep your hearts to the work, quicken them when dull. 9. Intend heart-work eſpecially in this exerciſe, the quickning of grace, ſtrengthning of faith, and ſtirring of affe<g ref="char:EOLhyphen"/>ctions. 10. Cloſe up with prayer, and as opportunity is afforded, <hi>ſolemne,</hi> and with reſpect to the ſubject of your meditation. <hi>Read Bp Hall's directions for meditation, and Baxter in his Everlasting Rest; and Whites, and Ambroſe in his Middle things.</hi>
+            </p>
+         </div>
+         <div n="13" type="section">
+            <head>SECT. XIII. <hi>Of Prayer.</hi>
+            </head>
+            <p>I Need not ſet before you its <hi>neceſſity</hi> and <hi>excellenny;</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.15, 16.</note> the ſpirit of Adoption will reach you to cry <hi>Abba Father. Gal.</hi> 4: 6.</p>
+            <p n="1">
+               <pb n="58" facs="tcp:62699:32"/> 1.
+<note place="margin">1 <hi>Theſ.</hi> 5.17.</note> Be <hi>frequent</hi> in prayer, often in <hi>ſolemne,</hi> and even conſtantly in <hi>ejaculatory,</hi> and <hi>oc<g ref="char:EOLhyphen"/>caſionall.</hi>
+            </p>
+            <p n="2">2. Be <hi>fervent</hi> and ſpirituall. <hi>Rom.</hi> 8.26. <hi>Rom.</hi> 15.30.</p>
+            <p n="3">3. Be <hi>humble</hi> and lowly. <hi>Gen.</hi> 18.27. <hi>Ezr.</hi> 9.6</p>
+            <p n="4">4. <hi>Believing.</hi> 5. <hi>Importunate. Luk.</hi> 18.</p>
+            <p>
+               <hi>More particularly.</hi> 1. Keep your hearts in a praying frame.
+<note place="margin">
+                  <hi>Eph.</hi> 6.18. <hi>Pſ.</hi> 5.3. <hi>Math.</hi> 6.9.</note> 2. Mind the occaſions and opportunities. 3. Prepare your ſelfe to it by meditation. 2 <hi>Sam.</hi> 7.27. 4. Take right apprehenſions of God: as <hi>your father in heaven,</hi> as a ſpirit, great and glorious, but your God and Father in Chriſt: take up ſuitable apprehenſions to your occaſion, as God ſhall direct. 5. Humble your ſoules in ſence of ſin to be confeſſed. 6. Affect your hearts with the mercies to be deſired. 7.
+<note place="margin">
+                  <hi>Jacob. Hoſ.</hi> 12.3, 4.</note> Wreſtle with God with Arguments pro<g ref="char:EOLhyphen"/>per. 8. Content not your ſelfe with the bare performance, without affection of heart, and enjoyment of God. 9. Keep cloſe to the duty, as near as you can, with<g ref="char:EOLhyphen"/>out diſtraction.
+<note place="margin">
+                  <hi>Math.</hi> 6.7. <hi>Eccl.</hi> 5.2. <hi>Rom.</hi> 8.26. <hi>Phil.</hi> 4.6. <hi>Math.</hi> 6. <hi>Eph.</hi> 6.19.</note> 10. Affect not words, nor length. 11. Joyn praiſes with praiers. 12. Be not private ſpirited in prayer, but re<g ref="char:EOLhyphen"/>member others, eſpecially the Church of God. 13. Take delight in this duty. 14. reſt
+<pb n="59" facs="tcp:62699:32"/>not in prayer, but in <hi>Christ,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 3.12. <hi>John</hi> 14.13</note> through whom preſent your perſon and prayers unto God, with faith. 15. Look after your prayers,
+<note place="margin">
+                  <hi>Pſ.</hi> 5.3.</note> and God's anſwers to them.</p>
+            <p>Read Cobbet <hi>of Prayer</hi> Gee <hi>of Prayer.</hi> Ambroſe <hi>his Directions ia his middle things.</hi> T. Goodwins <hi>return of prayer.</hi> Ford <hi>of A<g ref="char:EOLhyphen"/>doption. Cripplegate exerciſe.</hi> 14.17.19.</p>
+         </div>
+         <div n="14" type="section">
+            <head>SECT. XIV. <hi>Of Sanctification of the Lords day.</hi>
+            </head>
+            <p n="1">1 BE ſetled in the doctrine of the <hi>Mo<g ref="char:EOLhyphen"/>rality</hi> of the Sabbath.
+<note place="margin">4th <hi>Comm,</hi>
+               </note> For this purpoſe read <hi>Sermon Notes and books, eſpe<g ref="char:EOLhyphen"/>cially</hi> Cawdry <hi>and</hi> Palmer. Shepheard <hi>and</hi> Whites <hi>appendix to his directions for reading the Scripture.</hi>
+            </p>
+            <p n="2">2. <hi>Prepare</hi> for it, deſiring the day,
+<note place="margin">
+                  <hi>Exod.</hi> 20.</note> com<g ref="char:EOLhyphen"/>poſing your worldly affaires, and laying them aſide in the evening before, ſet your heart in order towards a Sabbath, and de<g ref="char:EOLhyphen"/>ſire God's preſence and bleſſing for the day approaching.</p>
+            <p n="3">3. In the <hi>morning</hi> awake with God, pro<g ref="char:EOLhyphen"/>ceed to private and family duties, be more large and ſolemne in them then at other times, ſpend intervals in meditation, holy
+<pb n="60" facs="tcp:62699:33"/>conference, reading, and prayer.</p>
+            <p n="4">4.
+<note place="margin">
+                  <hi>Iſ.</hi> 2.3. <hi>Pſ.</hi> 122.1. <hi>Pſ.</hi> 100.</note> Haſten to <hi>publique ordinances,</hi> lay a<g ref="char:EOLhyphen"/>ſide prejudices, and take care to give God your hearts. See <hi>Burroughes of Goſpell wor<g ref="char:EOLhyphen"/>ſhip, and other treatiſes of that Nature.</hi>
+            </p>
+            <p n="5">5.
+<note place="margin">
+                  <hi>Lev.</hi> 26.42</note> If you <hi>want</hi> publique opportunity, en<g ref="char:EOLhyphen"/>quire into the cauſe: if ſin be in it, humble your ſoules, juſtify God, and accept of the puniſhment of your ſin, pray for pardon, act repentance with faith in the bloud of Chriſt: lament after the Lord. 1 <hi>Sam.</hi> 3. <hi>Pſ.</hi> 42.84.63.</p>
+            <p n="6">6.
+<note place="margin">
+                  <hi>Rev.</hi> 12.14. <hi>Pſ.</hi> 42.</note> Make up your want in <hi>private</hi> wor<g ref="char:EOLhyphen"/>ſhip</p>
+            <p n="1">1. <hi>Begin</hi> with prayer, confeſſion of ſin, and ſupplication for a bleſſing, with praiſe to God.</p>
+            <p n="2">2. <hi>Read</hi> much of the Scripture, <hi>Pſalmes, Old and New Teſtament.</hi> Meditate upon it, draw your obſervations, and worke them on your hearts, obſerve Gods teachings, and impart them to any with you.</p>
+            <p n="3">3. <hi>Pour</hi> out your hearts more largely in prayer.</p>
+            <p n="4">4 Take ſome good <hi>Sermon Notes,</hi> or ſome choice <hi>book,</hi> and ſpend a Sermon time in it; and ſuppoſe you were hearing it in the pub<g ref="char:EOLhyphen"/>lick congregation.</p>
+            <p n="5">5. <hi>Cloſe</hi> up with prayer and praiſes, deſi<g ref="char:EOLhyphen"/>ring a bleſſing.</p>
+            <pb n="61" facs="tcp:62699:33"/>
+            <p> In <hi>intervals</hi> of time take refreſhments na<g ref="char:EOLhyphen"/>turall with ſpirituall affections, thoughts, diſcourſes.</p>
+            <p>Let the reſt of the time be ſpent as in the morning, in meditation, reading,
+<note place="margin">
+                  <hi>Iſ.</hi> 56.6. <hi>Iſ.</hi> 58.13.</note> confe<g ref="char:EOLhyphen"/>rence, and prayer.</p>
+            <p>In the <hi>afternoon,</hi> at the ſolemn time, do a<g ref="char:EOLhyphen"/>gain as in the morning.</p>
+            <p>After that, as in the intervals, reflecting on what you read, obſerved, and were taught of God that day, renew your fami<g ref="char:EOLhyphen"/>ly and your cloſet duties, as in the mor<g ref="char:EOLhyphen"/>ning; and be much in <hi>Thanksgiving.</hi> Let the day be improved for God, and with him. Keep out the world. Get ſome ſpe<g ref="char:EOLhyphen"/>ciall acquaintance with God, with Chriſt, and Heaven. Do good to the ſoules and bodies of others, as you have opportunity, eſpecially in your family. Bleſſe God much for Chriſt, and the worke of Redemption, and look and long for Heaven. See <hi>Good<g ref="char:EOLhyphen"/>win of ſanctifying the Sabbath. Expoſ. or</hi> 4th <hi>Comm. Shepheard,</hi> &amp;c.</p>
+         </div>
+         <div n="15" type="section">
+            <pb n="62" facs="tcp:62699:34"/>
+            <head>SECT. XV. <hi>Of Faſting and Humiliation.</hi>
+            </head>
+            <p n="1">1. AS neceſſity requireth, and oppor<g ref="char:EOLhyphen"/>tunity is offered, be often in the duty of ſelf-examination, ſoul-humiliation, with <hi>faſting and prayer.</hi>
+            </p>
+            <p n="2">2. Improve <hi>publick daies</hi> for that pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p n="3">3. Keep ſome private in your family, and in your Cloſet, becauſe of family and per<g ref="char:EOLhyphen"/>ſonall neceſſities. <hi>Zach</hi> 12.12.</p>
+            <p>And for <hi>direction</hi> in it, (having conſidered your neceſſities, ſet a fit and free time apart, put your heart into a poſture, and ſought God's preſence,) ſet about the work.</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Jach.</hi> 12.12. <hi>Dan.</hi> 9. <hi>Lam.</hi> 3.39.</note> Let your <hi>private</hi> and <hi>family duties,</hi> of daily courſe look towards it.</p>
+            <p n="2">2. Sit down and <hi>examine</hi> your hearts and lives, and find out your ſpeciall ſins and tranſgreſſions in every age, in every rela<g ref="char:EOLhyphen"/>tion, place, &amp;c.</p>
+            <p n="3">3.
+<note place="margin">
+                  <hi>Dan.</hi> 9.</note> Having found them out, ſet them <hi>home</hi> upon your hearts, in the conſiderati<g ref="char:EOLhyphen"/>on of their nature, number, and aggrava<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="4">4. Draw up againſt your ſelves the <hi>ſen<g ref="char:EOLhyphen"/>tence</hi>
+               <pb n="63" facs="tcp:62699:34"/>of the law of God.
+<note place="margin">
+                  <hi>Gal.</hi> 3.10.</note>
+            </p>
+            <p n="5">5.
+<note place="margin">1 <hi>Joh.</hi> 1.9.</note> Put your ſelves into the preſence of God, and make large free and ingenuous <hi>confeſſions</hi> of ſins, both of nature and life.
+<note place="margin">
+                  <hi>Pſ.</hi> 51.17.</note>
+            </p>
+            <p n="6">6. Get your hearts <hi>humbled</hi> under them in God's ſight, and deſire him to work you to it.</p>
+            <p n="7">7.
+<note place="margin">
+                  <hi>Dan.</hi> 9.7, 11.</note> 
+               <hi>Acknowledge</hi> your deſerts of death and damnation, and of your particular af<g ref="char:EOLhyphen"/>fliction.</p>
+            <p n="8">8.
+<note place="margin">2 <hi>Cor.</hi> 7.11</note> Worke your hearts to <hi>hatred and ab<g ref="char:EOLhyphen"/>horrency</hi> of your ſin, and expreſſe it ſincere<g ref="char:EOLhyphen"/>ly.</p>
+            <p n="9">9. Look upon <hi>God in Chriſt</hi> as gracious,
+<note place="margin">
+                  <hi>Exod.</hi> 34.6</note> and mercifull, willing to pardon ſin.</p>
+            <p n="10">10.
+<note place="margin">
+                  <hi>Dan.</hi> 9.19.</note> 
+               <hi>Plead</hi> hard for pardon in the bloud of Chriſt.</p>
+            <p n="11">11. <hi>Preſent</hi> Chriſt Jeſus as your ſacrifice,
+<note place="margin">
+                  <hi>Levit. Rom.</hi> 3.25.</note> once offered upon the croſſe, ever preſen<g ref="char:EOLhyphen"/>ted in Heaven; let faith apprehend it, ap<g ref="char:EOLhyphen"/>ply it, and preſent it unto God.</p>
+            <p n="12">12.
+<note place="margin">
+                  <hi>Pſ.</hi> 51.7.</note> Beg God's <hi>cleanſing</hi> and ſanctifying grace.</p>
+            <p n="13">13.
+<note place="margin">
+                  <hi>Pſ.</hi> 51.13</note> 
+               <hi>Renew</hi> your covenant for better obe<g ref="char:EOLhyphen"/>dience in the bloud of Chriſt, with a ſincere heart, and deſire God's acceptance and grace.</p>
+            <p n="14">14. Pray for the <hi>removall</hi> of the judg<g ref="char:EOLhyphen"/>ment, with <hi>ſubmiſſion</hi> to Gods will:
+<note place="margin">
+                  <hi>Dan.</hi> 9.16.</note> effectu<g ref="char:EOLhyphen"/>ally
+<pb n="64" facs="tcp:62699:35"/>pray for the ſanctification of it, and for ſupport under it, with patience to bear it: pray then too for the bleſſings to be deſired, as it may be for your good and God's glory.</p>
+            <p n="15">15. <hi>Remember</hi> then your family relations, friends, thoſe that have deſired your pray<g ref="char:EOLhyphen"/>ers; the needy, ſad, tempted, and afflicted ſervants of Chriſt.</p>
+            <p n="16">16.
+<note place="margin">
+                  <hi>Pſ.</hi> 51.18. <hi>Dan.</hi> 9. <hi>Ezek.</hi> 9.</note> 
+               <hi>Enlarge</hi> in your prayers for the whole <hi>Church,</hi> for the <hi>Land, King, Magiſtrate, Miniſters,</hi> and <hi>People.</hi> Confeſſe <hi>Nationall</hi> ſins, conſidering your ſhare in them, mourn for them, ſtrive with God for mercy, &amp;c. wreſtling with God in Chriſt.</p>
+            <p n="17">17. Towards the <hi>cloſe,</hi> confeſſe your fai<g ref="char:EOLhyphen"/>lings in the preſent duty,
+<note place="margin">
+                  <hi>John</hi> 14.13, 14.</note> beg acceptance through Chriſt, and conclude with bleſ<g ref="char:EOLhyphen"/>ſings. If it may be, continue in this order, while ſtrength laſteth, but be <hi>ſincere, fer<g ref="char:EOLhyphen"/>vent,</hi> and <hi>affectionate</hi> in all.</p>
+            <p n="18">18. Then <hi>read</hi> ſome portion of Scripture to the purpoſe,
+<note place="margin">Ezra.</note> or as God ſhall direct, ſpend ſome conſiderable time in ſo doing, with reflection and meditation upon what you have read.</p>
+            <p n="19">19. Proceed again to Prayer, bewailing your defects in the duty of the day; looking over your confeſſions, and making them up
+<pb n="65" facs="tcp:62699:35"/>in renewed acknowledgments. The like in the other parts of the duty.
+<note place="margin">
+                  <hi>Ex.</hi> 33.4, 5, 6. <hi>Jona</hi> 3.6. <hi>Joel</hi> 2.15, 16.</note>
+            </p>
+            <p n="20">20. Abſtaine from <hi>ornaments, accomo<g ref="char:EOLhyphen"/>dations,</hi> and <hi>refreſhments,</hi> as long as you are able, to help you in Humiliation, or to ex<g ref="char:EOLhyphen"/>preſſe it, and to quicken you to prayer.</p>
+            <p n="21">21.
+<note place="margin">
+                  <hi>Iſ.</hi> 58.7, 10</note> In the cloſe devote your ſelves to God; and give ſomething, as you are able, to the poor.</p>
+            <p n="22">22. Be often in ſuch duties,
+<note place="margin">
+                  <hi>Dan.</hi> 10.2, 3.</note> as occaſion requireth, and while God is afflicting you or his people, walke humbly, and lay aſide your ornaments, and abate your refreſh<g ref="char:EOLhyphen"/>ments, and be much in prayer.</p>
+         </div>
+         <div n="16" type="section">
+            <head>SECT. XVI. <hi>Of Spirituall feasting on Chriſt.</hi>
+            </head>
+            <p>
+               <hi>CHriſt Jeſus</hi> his body broken, and his bloud ſhed, affords ſpirituall nou<g ref="char:EOLhyphen"/>riſhment, with <hi>plenty, life,</hi> and <hi>ſweetneſſe</hi> to the ſoule, that is intereſted in him,
+<note place="margin">
+                  <hi>Joh.</hi> 6.51, <hi>to</hi> 63.</note> and lives upon him. There is a <hi>Spirituall</hi> and a <hi>Sacramentall</hi> feeding on Chriſt. For the Spirituall, ſee <hi>Joh</hi> 6.54. for the Sacramen<g ref="char:EOLhyphen"/>tall, ſee 1 <hi>Cor.</hi> 11.23.</p>
+            <p n="1">1. As often as you can, receive and im<g ref="char:EOLhyphen"/>prove the Sacrament. <hi>There are many good
+<pb n="66" facs="tcp:62699:36"/>and Books to direct:</hi> as, <hi>Roberts, Dike, Bolton, Pemble, Bradſhaw,</hi> &amp;c.</p>
+            <p n="2">2. When you cannot Sacramentally, ſee that <hi>ſpiritually</hi> you feed on this body and bloud of Chriſt. For <hi>Directions</hi> take theſe. 1.
+<note place="margin">
+                  <hi>Rom.</hi> 3.2, 3.</note> Conſider your <hi>neceſſities,</hi> ſins, wants, and weakneſſes, to ſharpen Hunger and Thirſt for Chriſt.
+<note place="margin">
+                  <hi>Joh.</hi> 17.3.</note> 2. Call forth at ſolemne times for that purpoſe your <hi>know ledge</hi> of Chriſt, eſpecially in his death;
+<note place="margin">
+                  <hi>Zach.</hi> 12.10. <hi>Iſ.</hi> 53. <hi>tot. Pſ.</hi> 22. <hi>Math.</hi> 27.</note> 1 <hi>Cor.</hi> 2.3. 3. Let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith ſet a <hi>dying</hi> Chriſt before you in your thoughts and meditations, with your ſins, and God's wrath upon him.</p>
+            <p n="4">4. Put in practice by <hi>godly ſorrow</hi> what is ſet before you,
+<note place="margin">
+                  <hi>Zach.</hi> 12.10</note> 
+               <hi>Zach.</hi> 12. while you look on him whom you have pierced: let ſin then appear exceeding ſinfull, becauſe <hi>be<g ref="char:EOLhyphen"/>ſmeared</hi> with the bloud of Chriſt.</p>
+            <p n="5">5. <hi>Apprehend</hi> and <hi>apply</hi> by faith the <hi>love</hi> of God, and the love of Chriſt in dying for you.
+<note place="margin">
+                  <hi>Gal.</hi> 2.20.</note> 
+               <hi>Rom</hi> 5.6, <hi>Gal.</hi> 2.2. and <hi>John</hi> 3.16. and 1 <hi>Joh.</hi> 3.16.</p>
+            <p n="6">6. Look upon Chriſt in dying as your <hi>ſurety,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 7.22. <hi>Eph.</hi> 5.2.</note> and as your <hi>ſacrifice</hi> in your name and ſteed. <hi>Rom.</hi> 6:</p>
+            <p n="7">7.
+<note place="margin">
+                  <hi>Gal.</hi> 3.13. <hi>Rom.</hi> 3.25. <hi>Dan.</hi> 9.24.</note> Look on Chriſt in his death as <hi>anſwe<g ref="char:EOLhyphen"/>ring</hi> the Law, ſatisfying juſtice, taking a<g ref="char:EOLhyphen"/>way ſin, bringing in everlaſting righteouſ<g ref="char:EOLhyphen"/>neſſe, eſtabliſhing the covenant of Grace,
+<pb n="67" facs="tcp:62699:36"/>and making a purchaſe of grace and glory,
+<note place="margin">
+                  <hi>Heb.</hi> 9.15. <hi>Eph.</hi> 1.14. <hi>Rom.</hi> 6.6.</note> giving a deadly ſtroke to ſin, and breaking the Serpent's head &amp;c. <hi>Heb.</hi> 2.14.</p>
+            <p n="8">8. Draw by faith all manner of <hi>virtues</hi> from him, to mortify ſin, to quicken grace, to ſtrengthen faith, and refreſh your ſouls.</p>
+            <p n="9">9.
+<note place="margin">
+                  <hi>Eph.</hi> 1.3, 4.</note> Be much in <hi>thanſgiving</hi> to God for his Son, and adore the Love.</p>
+            <p n="10">10.
+<note place="margin">2 <hi>Cor.</hi> 5.14.</note> Improve all to <hi>Argument</hi> againſt cor<g ref="char:EOLhyphen"/>ruption, temptation, and the world. See <hi>Rom.</hi> 6.3. <hi>Titus</hi> 2.14. 2 <hi>Cor.</hi> 15.14.</p>
+            <p n="11">11.
+<note place="margin">1 <hi>Cor.</hi> 6.20</note> 
+               <hi>Give</hi> up your ſelves again in an ever<g ref="char:EOLhyphen"/>laſting <hi>Covenant</hi> to be the Lords, to live to him, and if need be to dy for him.</p>
+            <p n="12">12. <hi>Depend</hi> upon the ſatisfaction of Chriſt,
+<note place="margin">
+                  <hi>Heb.</hi> 9. <hi>ult.</hi>
+               </note> and expect the vertues of his Death, till he come again in glory, and take you up with himſelfe, that you may be for ever with him. Long for his immediatee preſence, and haſten to it. See <hi>Bp Taylor,
+<note place="margin">
+                     <hi>Rev.</hi> 22.20</note> latter end of his treatiſe on the Sacrament.</hi>
+            </p>
+         </div>
+         <div n="17" type="section">
+            <head>SECT. XVII. <hi>Of reading the Scriptures.</hi>
+            </head>
+            <p n="1">1. <hi>SEttle your faith</hi> in the <hi>Divinity,
+<note place="margin">2 <hi>Pet.</hi> 1.19</note> Au<g ref="char:EOLhyphen"/>thority,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>erity</hi> of the <hi>Scriptures.</hi> And for that conſider 1. that God is: 2.
+<pb n="68" facs="tcp:62699:37"/>that God in his name,
+<note place="margin">2 <hi>Tim.</hi> 3.16. <hi>Joh.</hi> 1.1. &amp;c</note> nature, and will can<g ref="char:EOLhyphen"/>not be known, without revelation of him<g ref="char:EOLhyphen"/>ſelfe: 3. ſuch is his goodneſſe (not to ſay his juſtice) that he will not expect that we ſhould know him, believe in him, worſhip and ſerve him, not having given the world a ſufficient diſcovery of himſelfe. 4. there is no <hi>other,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 4.12.</note> but this of the Scriptures, ſuffi<g ref="char:EOLhyphen"/>cient for that purpoſe.
+<note place="margin">
+                  <hi>Heb.</hi> 1.1. 2 <hi>Tim.</hi> 3.15, 16, 17.</note> 5. This hath been <hi>delivered</hi> from God, from time to time: and 6. is a <hi>ſufficient</hi> diſcovery of God, and of his will. 1. The Scriptures affirm it. 2. No<g ref="char:EOLhyphen"/>thing <hi>rationall</hi> can be objected againſt it. 3. The <hi>Contents</hi> prove it, it carries <hi>ſelfe-evidence</hi> with it, and all divine <hi>characters</hi> neceſſary to it:
+<note place="margin">
+                  <hi>Heb.</hi> 2.4.</note> 4. It hath been <hi>ſealed</hi> from heaven by a continued <hi>ſeries</hi> of <hi>Providence;</hi> by <hi>miracles,</hi> by the <hi>powers</hi> of the Holy Ghoſt upon the firſt writers and publiſhers,
+<note place="margin">
+                  <hi>Heb.</hi> 4.12.</note> by ſpirituall and divine <hi>operations</hi> on Hea<g ref="char:EOLhyphen"/>rers, ſome to <hi>Converſion</hi> and Conſolation, on others to <hi>Conviction</hi> and Confuſion. 5. It hath been <hi>confirmed</hi> and <hi>ſealed</hi> by the <hi>bloud</hi> of Chriſt and many thouſand Mar<g ref="char:EOLhyphen"/>tyrs.
+<note place="margin">
+                  <hi>Heb.</hi> 9.15.</note> 6. It is wonderfully <hi>preſerved</hi> in the world;
+<note place="margin">1 <hi>Tim.</hi> 3.15</note> and <hi>handed</hi> in the Church from one generation to another, and is ſtill the ſame, notwithſtanding all attempts to deface it. 7.
+<note place="margin">1 <hi>Joh.</hi> 5.10</note> Every true Believer hath the <hi>witneſſe</hi> to
+<pb n="69" facs="tcp:62699:37"/>it within himſelfe, lives upon it,
+<note place="margin">
+                  <hi>Rev.</hi> 12.11</note> and would dye many a death rather then deny it, looſe it, or the comforts of it.</p>
+            <p n="2">2. Be <hi>converſant</hi> with it,
+<note place="margin">
+                  <hi>Pſal.</hi> 1.1, 2.</note> and much in rea<g ref="char:EOLhyphen"/>ding it, hearing it, and meditating upon it. <hi>Ioh.</hi> 5.45. <hi>Pſ.</hi> 1. &amp; 19. &amp; 119. 2 <hi>Pet.</hi> 1.19. 2 <hi>Tim.</hi> 3.15. <hi>Rev.</hi> 1.4. &amp;c: with faith, love, humility, diligence, obedience, conſtancy.</p>
+            <p n="3">3. Read ſometime <hi>occaſionally,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 8.28, 29.</note> for your inſtruction and conſolation, as you ſhall be guided to it by God's ſpirit and provi<g ref="char:EOLhyphen"/>dence, and your beſt underſtanding: but often <hi>ſolemnely,</hi> have your ſet times for it in your retirements, beſides the family and publick opportunities: ſit cloſe at it, be not long abſent from it. Read for ſpirituall re<g ref="char:EOLhyphen"/>freſhment as God ſhall direct you: be much acquainted with the <hi>Pſalmes, Eſay,</hi> the <hi>N: Teſt:</hi> Read for particular purpoſes on ſpeciall places: Read for the generall know<g ref="char:EOLhyphen"/>ledge of the Scripture, the <hi>Bible</hi> in order; and for <hi>quantity</hi> at a time, as your oppor<g ref="char:EOLhyphen"/>tunity will give leave.</p>
+            <p n="4">4. when you are to read ſolemnly,
+<note place="margin">1 <hi>Pet.</hi> 2.1.</note> lay aſide ſinfull luſt, and worldly thoughts, quicken your affections to the duty, ſet your ſelf in Gods preſence, beg his ſpirit, take the Book in hand with reverence, read with faith, fear, diligence, and underſtand<g ref="char:EOLhyphen"/>ing:
+<pb n="70" facs="tcp:62699:38"/>and that you may the better under<g ref="char:EOLhyphen"/>ſtand it,
+<note place="margin">
+                  <hi>Act.</hi> 8.30, 31.</note> uſe ſuch helps as God hath affor<g ref="char:EOLhyphen"/>ded. 1 Conſider the connexion and ſcope, comparing it with other places: 2. Refer it to an enquiry, when you meet with a good Annotator, or an able Miniſter: 3. Paſſe on to what you may more eaſily under<g ref="char:EOLhyphen"/>ſtand, and remember, that places concer<g ref="char:EOLhyphen"/>ning ſalvation, and the neceſſaries to it for ſaith and life, are generally <hi>plaine,</hi> and eaſy to be underſtood. What you underſtand, <hi>conſider,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 119.</note> that it may affect your heart, and take place in your memory, and give you ſuch obvious obſervations, as it naturally affordeth for inſtruction or conſolation: take ſpeciall notice of what may increaſe your ſpirituall knowledge, rebuke your corruption, direct and quicken you to du<g ref="char:EOLhyphen"/>ty, anſwer temptations, and refreſh your ſoules: and more eſpecially, of what the ſpirit of God in reading ſets home upon your hearts, with evidence and power. If you would not willingly looſe the obſerva<g ref="char:EOLhyphen"/>tions, ſet a <hi>note</hi> upon the place, and if need be <hi>refer</hi> it to your <hi>Note-book</hi> for that pur<g ref="char:EOLhyphen"/>poſe. When you have done, reflect upon the whole by meditation, and commend it to God in prayer, bringing forth the fruits of it, in an holy life and converſation.</p>
+            <pb n="71" facs="tcp:62699:38"/>
+            <p> 
+               <hi>Helpes</hi> to the <hi>underſtanding</hi> of the Scrip<g ref="char:EOLhyphen"/>tures may be ſuch as theſe. 1. Read books directing you about the Scriptures, as Ambroſe <hi>Middle things.</hi> Whites <hi>Directions for Reading.</hi> Roberts <hi>Key to the Bible.</hi>
+            </p>
+            <p n="2">2. When you meet with a difficult place, <hi>Note</hi> it, <hi>referre</hi> it for an enquiry when you meet with an able Miniſter, or a good Ex<g ref="char:EOLhyphen"/>poſitor.</p>
+            <p n="3">3. Have ſome choice <hi>Annotations</hi> on the whole Bible, and on particular books: if the <hi>Engliſh Annotations in Folio be coſtly, Get</hi> Biſhop Halls <hi>Paraphraſe, or</hi> Deoda<g ref="char:EOLhyphen"/>tes <hi>Annotations:</hi> For the perticular books; there are ſeverall, <hi>as</hi> Caryll <hi>on Jobe.</hi> Bur<g ref="char:EOLhyphen"/>roughes <hi>on</hi> Hoſea. Greenhill <hi>on ſome part of</hi> Ezekiel. Hutchenſon <hi>on the leſſer Pro<g ref="char:EOLhyphen"/>phets.</hi> Dickſon <hi>on the</hi> Pſalmes. 1. Dixon <hi>on</hi> Matthew <hi>and</hi> Hebrewes, <hi>and all the Epi<g ref="char:EOLhyphen"/>ſtles.</hi> Hutchenſon <hi>on</hi> St <hi>Johns Goſpell.</hi> Man<g ref="char:EOLhyphen"/>ton <hi>on</hi> James <hi>and</hi> Jude. Jenkins <hi>on</hi> Jude. Sclater <hi>on</hi> Theſſalonians. Baine <hi>on</hi> Ephe<g ref="char:EOLhyphen"/>ſians. Bifield <hi>on</hi> Colloſſions, &amp;c. Ainſ<g ref="char:EOLhyphen"/>worth <hi>on</hi> Pentatench, Pſalmes, <hi>and</hi> Canti<g ref="char:EOLhyphen"/>cles, <hi>with many others: if you cannot get all, get ſuch as you can.</hi>
+            </p>
+            <p n="4">4. Acquaint your ſelves with the <hi>Generall Contents</hi> of the ſeverall books. In Scritpure the <hi>Five Books of Moſes,</hi> ſhew the
+<pb n="72" facs="tcp:62699:39"/>Creation of the World, and the foundati<g ref="char:EOLhyphen"/>on of the Church; at length ſetling it on <hi>Abrahams</hi> family, with Gods proceeding with them in Egypt, and the wilderneſſe, under the conduct of <hi>Moſes,</hi> &amp;c. <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> and other <hi>Hiſtoricall Books</hi> ſhew the progreſſe of God and his providence to<g ref="char:EOLhyphen"/>wards the Church, in ſeverall waies, and perſons, and times. The <hi>Pſalmes</hi> are full of ſpirituall Meditations: <hi>Proverbs</hi> full of inſtructions for Holy Wiſdome. <hi>Eccleſiaſtes</hi> ſhewes the vanity of the creature. <hi>Canticles</hi> communion between Chriſt and his Church, and that as ſome think Prophetically. The <hi>Prophets</hi> containe not only Prophe<g ref="char:EOLhyphen"/>cies, that concerned the Jewes and other Nations, but many promiſes of Chriſt and Grace, &amp;c. The <hi>Evangeliſts</hi> give you the Hiſtory of Chriſt his perſon, doctrine, mi<g ref="char:EOLhyphen"/>racles, life, death, reſurrection and aſcen<g ref="char:EOLhyphen"/>ſion. The <hi>Acts</hi> ſhew the foundations of the Chriſtian Church, among Jewes and Gentiles. The <hi>Epiſtles</hi> are for the edifi<g ref="char:EOLhyphen"/>cation of thoſe Churches, and our inſtructi<g ref="char:EOLhyphen"/>on, occaſioned moſtly by Hereſies and per<g ref="char:EOLhyphen"/>ſecutions. The <hi>Revelations,</hi> Prophetically ſet forth the ſtate of the <hi>world</hi> in generall, and the <hi>Church</hi> in ſpeciall, from St <hi>Iohns</hi> daies till the end of the World.</p>
+            <pb n="73" facs="tcp:62699:39"/>
+            <p> Be moſt converſant in plaine and <hi>practi<g ref="char:EOLhyphen"/>call</hi> Scripturess neglect not others <hi>Doctri<g ref="char:EOLhyphen"/>nall,</hi> or <hi>Hiſtoricall.</hi> For the <hi>propheticall,</hi> eſpecially <hi>Daniell,</hi> and the <hi>Revelations,</hi> they are beyond the reach of famous Divines, much more common Chriſtians: Provi<g ref="char:EOLhyphen"/>dence is the beſt expoſitor on Prophecies: and to a good underſtanding in them, there needs much knowledg of Hiſtory and Chronology, yea the moſt profound and abſtruſeſt parts of learning: only ſome<g ref="char:EOLhyphen"/>things in generall may be eaſily under<g ref="char:EOLhyphen"/>ſtood, as <hi>that</hi> ſuch and ſuch places con<g ref="char:EOLhyphen"/>cerne the deſcription and condition of the Church, in her pure or degenerate, in her proſperous or ſuffering condition; and ſuch and ſuch the enemies of God and of his people: and ſo may be read with pro<g ref="char:EOLhyphen"/>fit. In ſumme, believe the truth of the Scripture, Adore the Majeſty of God in them, acquaint your ſelves with their mat<g ref="char:EOLhyphen"/>ter, make them the ground of your faith, and the rule of your life and practiſe, bleſſe God for them, and wait till Heaven give an abſolute and perfect underſtanding of the whole.</p>
+         </div>
+         <div n="18" type="section">
+            <pb n="74" facs="tcp:62699:40"/>
+            <head>SECT. XVIII. <hi>Of Reading good Books.</hi>
+            </head>
+            <p>IT hath been Gods wonderfull care of his people to provide, as the Scriptures, ſo good books for them; there are many ſuch, both <hi>doctrinall</hi> and <hi>practicall.</hi> Get and read the beſt, but in a good method, and with diligence. 1. For Books <hi>Scriptu<g ref="char:EOLhyphen"/>rall:</hi> they are ſuch as theſe. 1. <hi>Expoſitors</hi> as before: Sermons, of them make choice. <hi>Concordances: Newmans</hi> and <hi>Cottons</hi> are large but uſefull, <hi>Downhams</hi> are briefe, and it may be may ſerve a private Chriſtian. A Book of <hi>Scripture references</hi> perhaps in Engliſh may be wanting, the Catechiſme in <hi>quarto</hi> with the Scripture references may be a preſent ſupply till a larger may be had. <hi>Directive,</hi> for reading of the Scrip<g ref="char:EOLhyphen"/>tures you had in the former Section, as <hi>Ambroſe</hi> and <hi>Bifield,</hi> &amp;c. And for the rea<g ref="char:EOLhyphen"/>ding of expoſitors; ſome, as the briefe An<g ref="char:EOLhyphen"/>notations muſt be conſulted on difficul<g ref="char:EOLhyphen"/>ties, others, as larger expoſitors may be read in order throughout, as other choice books.</p>
+            <pb n="75" facs="tcp:62699:40"/>
+            <p> Doctrinall, Biſhop Uſhers <hi>Body of Divini<g ref="char:EOLhyphen"/>ty.</hi> Downhams <hi>ſum.</hi> Leighs <hi>Body of Divinity. The morning exerciſe at Giles, and the Aſſem<g ref="char:EOLhyphen"/>blies larg Catechiſmes with other Catechiſmes,</hi> will be a good introduction, to them you may referre your other reading. From ſome good Catechiſme underſtand the principles of Religion, and then having gotten a knowledg of the heads in Divinity, proceed to other books: obſerving the <hi>point</hi> of doctrine, with its <hi>proofe</hi> from Scripture, and ſound reaſon, It's ſeverall branches for <hi>Amplification,</hi> and it's uſes in <hi>Appli<g ref="char:EOLhyphen"/>cation.</hi> For ſentences and illuſtrations, you may look upon them as profitable or pleaſant, but not ſo neceſſary.</p>
+            <p>For <hi>Controverſall</hi> you need not trouble your ſelfe with moſt of that nature: get advice for ſuch from an able miniſter. For <hi>practicall,</hi> there are many on particular ſubjects: I have referred you to not a few. Others are on mixed ſubjects: get and read the beſt. Such as theſe I would commend, beſides others you may meet with, and at preſent I may let ſlip. Shep<g ref="char:EOLhyphen"/>heards <hi>ſound convert</hi> and <hi>believer,</hi> and o<g ref="char:EOLhyphen"/>thers of his. Hookers <hi>works.</hi> Baxters, Gurnhalls, Loves, Preſton, Sibbes, Perkins, Downham, Harris, Tomas Goodwins
+<pb n="76" facs="tcp:62699:41"/>
+               <hi>VVorks,</hi> Reynolds, Symonds, <hi>Mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Exerciſes both</hi> Ball. <hi>Read well</hi> Ambro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>looking unto Ieſus,</hi> &amp;c.</p>
+            <p>In reading <hi>practicall</hi> books, obſerve theſe directions. 1. Acquaint your ſelf with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſt books. 2. With the generall conte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the book. 3. Then read it over in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der; for <hi>time,</hi> as opportunity gives lea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 4. Obſerve the principall heads more <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enlargements. 5. Incorproate the ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter into your underſtanding. And 6, the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> get it wrought into your hearts, and upon your affections by meditation. 7. take ſpeciall notice of what particularly con<g ref="char:EOLhyphen"/>cernes you, eſpecially what is ſet home upon your hearts by the ſpirit of God in your reading, either by way of <hi>conviction, inſtruction,</hi> or <hi>conſolation.</hi> 8. make an end with one good book before you begin with another in your ordinary courſe. Let your books be <hi>few, choice, ſufficient</hi> and read them well. Get a well choſen and compoſed cloſet of books: A <hi>faire</hi> Bible, <hi>Deodates</hi> Annotations: <hi>a</hi> Concordanc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Uſhers <hi>Body of Divinity: and for practic<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Books, as you can procure them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
